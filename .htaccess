@@ -1,0 +1,8 @@
+
+RewriteEngine on
+RewriteCond %{REQUEST_URI} !^/public/
+RewriteRule ^(.*)$ /public/$1 [L,QSA]
+RewriteCond %{HTTP_HOST} ^pixiebears\.xyz$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.pixiebears\.xyz$
+RewriteRule ^index\.php$ "http\:\/\/pixiebears\.xyz\/" [R=301,L]
+
