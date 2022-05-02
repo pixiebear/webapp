@@ -195,7 +195,7 @@
     <section id="thumbnails">
 <div class="row">
 
-    <div class="col-12 col-md-6 col-lg-4">
+    <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
         <div class="thumbnail">
             <img  src="/img/Snap.webp" style="width: 300px; height: 300px;">
         <div class="caption">
@@ -206,7 +206,7 @@
         </div>
     </div>
 
-    <div class="col-12 col-md-6 col-lg-4">
+    <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
 
         <div class="thumbnail">
             <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
@@ -219,7 +219,7 @@
       </div>
 
 
-      <div class="col-12 col-md-6 col-lg-4">
+      <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
         <div class="thumbnail">
             <img  src="/img/Chew.webp" style="width: 300px; height: 300px;">
             <div class="caption">
@@ -231,7 +231,7 @@
 
       </div>
 
-      <div class="col-12 col-md-6 col-lg-4">
+      <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
         <div class="thumbnail">
 
             <img  src="/img/Hurl.webp" style="width: 300px; height: 300px;">
@@ -244,7 +244,7 @@
         </div>
       </div>
 
-      <div class="col-12 col-md-6 col-lg-4">
+      <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
             <div class="thumbnail">
             <img  src="/img/Trif.webp" style="width: 300px; height: 300px;">
             <div class="caption">
