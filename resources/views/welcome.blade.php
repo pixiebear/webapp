@@ -50,34 +50,34 @@
         </div>
 
 
-        <div class="title">
-            <h2>Responsive Vertical Timeline</h2>
-            <p><a href="https://htmlcodex.com/css-timeline">More timeline designs</a></p>
-          </div>
+
           <div class="timeline">
             <div class="container">
               <div class="row">
                 <div class="col-lg-12">
                   <div class="timeline-container">
                     <div class="timeline-end">
-                      <p>Now</p>
+                      <p>START</p>
                     </div>
                     <div class="timeline-continue">
 
                       <div class="row timeline-right">
                         <div class="col-md-6">
                           <p class="timeline-date">
-                            01 Jun 2020
+                            Phase 1
                           </p>
                         </div>
                         <div class="col-md-6">
-                          <div class="timeline-box">
+                          <div class="timeline-box" data-aos="fade-right">
                             <div class="timeline-icon">
                               <i class="fa fa-gift"></i>
                             </div>
                             <div class="timeline-text">
-                              <h3>Lorem ipsum dolor</h3>
-                              <p>Lorem ipsum dolor sit amet elit ornare velit non</p>
+                              <h3>Phase 1</h3>
+                              <p>Storyline is Out</p>
+                              <p>Website and Discord Creation</p>
+                              <p>Whitelisting Starts</p>
+                              <p>Building Pixie Community</p>
                             </div>
                           </div>
                         </div>
@@ -86,7 +86,7 @@
                       <div class="row timeline-left">
                         <div class="col-md-6 d-md-none d-block">
                           <p class="timeline-date">
-                            01 Jan 2020
+                            Phase 2
                           </p>
                         </div>
                         <div class="col-md-6">
@@ -95,8 +95,11 @@
                               <i class="fa fa-business-time"></i>
                             </div>
                             <div class="timeline-text">
-                              <h3>Lorem ipsum dolor</h3>
-                              <p>Lorem ipsum dolor sit amet elit ornare velit non</p>
+                              <h3>Phase 2</h3>
+                              <p>Rewarding Creative Community Members</p>
+                              <p>Mint Date Announcement</p>
+                              <p>Collabs</p>
+                              <p>Whitelist Giveaways</p>
                             </div>
                             <div class="timeline-icon d-md-block d-none">
                               <i class="fa fa-business-time"></i>
@@ -105,33 +108,29 @@
                         </div>
                         <div class="col-md-6 d-md-block d-none">
                           <p class="timeline-date">
-                            01 Jan 2020
+                            Phase 2
                           </p>
                         </div>
                       </div>
 
-                      <div class="row">
-                        <div class="col-12">
-                          <div class="timeline-year">
-                            <p>2020</p>
-                          </div>
-                        </div>
-                      </div>
+
 
                       <div class="row timeline-right">
                         <div class="col-md-6">
                           <p class="timeline-date">
-                            01 Dec 2019
+                            Phase 3
                           </p>
                         </div>
                         <div class="col-md-6">
-                          <div class="timeline-box">
+                          <div class="timeline-box" data-aos="fade-right">
                             <div class="timeline-icon">
                               <i class="fa fa-briefcase"></i>
                             </div>
                             <div class="timeline-text">
-                              <h3>Lorem ipsum dolor</h3>
-                              <p>Lorem ipsum dolor sit amet elit ornare velit non</p>
+                              <h3>Phase 3</h3>
+                              <p>Mint Going Live</p>
+                              <p>Mint Sold Out</p>
+                              <p>Secondary Marketplace Listings</p>
                             </div>
                           </div>
                         </div>
@@ -140,17 +139,22 @@
                       <div class="row timeline-left">
                         <div class="col-md-6 d-md-none d-block">
                           <p class="timeline-date">
-                            01 Sep  2019
+                            Phase 4
                           </p>
                         </div>
                         <div class="col-md-6">
-                          <div class="timeline-box">
+                          <div class="timeline-box" data-aos="fade-right">
                             <div class="timeline-icon d-md-none d-block">
                               <i class="fa fa-cogs"></i>
                             </div>
                             <div class="timeline-text">
-                              <h3>Lorem ipsum dolor</h3>
-                              <p>Lorem ipsum dolor sit amet elit ornare velit non</p>
+                              <h3>Phase 4</h3>
+                              <p>$20000 Giveaway for early supporters (Minters)</p>
+                              <p> Staking Development</p>
+                              <p>Pixieverse Development</p>
+                              <p>Working on Roadmap 2.0</p>
+                              <p>PixieBears Merchandise</p>
+
                             </div>
                             <div class="timeline-icon d-md-block d-none">
                               <i class="fa fa-cogs"></i>
@@ -159,65 +163,24 @@
                         </div>
                         <div class="col-md-6 d-md-block d-none">
                           <p class="timeline-date">
-                            01 Sep  2019
+                            Phase 3
                           </p>
                         </div>
                       </div>
 
-                      <div class="row timeline-right">
-                        <div class="col-md-6">
-                          <p class="timeline-date">
-                            01 Jun 2019
-                          </p>
-                        </div>
-                        <div class="col-md-6">
-                          <div class="timeline-box">
-                            <div class="timeline-icon">
-                              <i class="fa fa-running"></i>
-                            </div>
-                            <div class="timeline-text">
-                              <h3>Lorem ipsum dolor</h3>
-                              <p>Lorem ipsum dolor sit amet elit ornare velit non</p>
-                            </div>
-                          </div>
-                        </div>
-                      </div>
 
-                      <div class="row timeline-left">
-                        <div class="col-md-6 d-md-none d-block">
-                          <p class="timeline-date">
-                            01 Mar 2019
-                          </p>
-                        </div>
-                        <div class="col-md-6">
-                          <div class="timeline-box">
-                            <div class="timeline-icon d-md-none d-block">
-                              <i class="fa fa-home"></i>
-                            </div>
-                            <div class="timeline-text">
-                              <h3>Lorem ipsum dolor</h3>
-                              <p>Lorem ipsum dolor sit amet elit ornare velit non</p>
-                            </div>
-                            <div class="timeline-icon d-md-block d-none">
-                              <i class="fa fa-home"></i>
-                            </div>
-                          </div>
-                        </div>
-                        <div class="col-md-6 d-md-block d-none">
-                          <p class="timeline-date">
-                            01 Mar 2019
-                          </p>
-                        </div>
-                      </div>
+
+
                     </div>
+
                     <div class="timeline-start">
-                      <p>Launch</p>
+                      <p>RoadMap 2.0</p>
                     </div>
                     <div class="timeline-launch">
-                      <div class="timeline-box">
+                      <div class="timeline-box" data-aos="zoom-in">
                         <div class="timeline-text">
-                          <h3>Launched our company on 01 Jan 2019</h3>
-                          <p>Lorem ipsum dolor sit amet</p>
+                          <h3>Road map 2.0</h3>
+                          <p>TBA</p>
                         </div>
                       </div>
                     </div>
