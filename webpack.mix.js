@@ -11,7 +11,8 @@ const mix = require('laravel-mix');
  |
  */
 
-mix.js('resources/js/app.js', 'public/js')
-    .postCss('resources/css/app.css', 'public/css', [
-        //
-    ]);
+mix.css('resources/css/bootstrap.css', 'public/css')
+    .css('resources/css/bootstrap-responsive.css', 'public/css');
+
+
+    mix.webpackConfig({ stats: { hash: true, version: true, timings: true, children: true,  errors: true,  errorDetails: true, warnings: true, chunks: true, modules: false, reasons: true, source: true, publicPath: true, } });

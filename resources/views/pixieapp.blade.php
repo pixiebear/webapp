@@ -15,7 +15,7 @@
 
     <!-- Latest compiled and minified CSS -->
 
-     <link href="/css/bootstrap.css" rel="stylesheet">
+     <link href="{{ mix('/css/bootstrap.css') }}" rel="stylesheet">
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
@@ -265,7 +265,7 @@
 
     </style>
     <!-- Latest compiled and minified CSS -->
-   <link href="/css/bootstrap-responsive.css" rel="stylesheet">
+   <link href="{{ mix('/css/bootstrap-responsive.css') }}" rel="stylesheet">
 
     <!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
     <!--[if lt IE 9]>
