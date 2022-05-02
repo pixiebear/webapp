@@ -5786,7 +5786,7 @@ a.badge:focus {
 
 
 .hero-unit {
-    height: fit-content;
+
   padding: 16px 20.8px;
   margin-top: 50px;
   font-size: 18px;
@@ -5796,7 +5796,6 @@ a.badge:focus {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-
   background-color:#000;
   border: 4px double #ffffff;
   -webkit-border-radius: 0;
