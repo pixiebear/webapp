@@ -52,49 +52,56 @@
             <div class="col-6">
                 <p class="page-header" data-aos="fade-right">
                     Phase 1 <br><br>
-                    Mint of 5,555 PIXI Bears
+                    Comunitry Creation
                   </p>
             </div>
 
             <div class="col-6">
-                <p class="page-header" data-aos="fade-right">
+                <p class="page-header" data-aos="fade-left">
                     Phase 2 <br><br>
-                    Mint of 5,555 PIXI Bears
+                    Mint of 5,555 PIXI Bears TBA
                   </p>
             </div>
 
             <div class="col-6">
                 <p class="page-header" data-aos="fade-right">
                     Phase 3 <br><br>
-                    Mint of 5,555 PIXI Bears
+                    Staking
                   </p>
             </div>
 
             <div class="col-6">
-                <p class="page-header" data-aos="fade-right">
+                <p class="page-header" data-aos="fade-left">
                     Phase 4 <br><br>
-                    Mint of 5,555 PIXI Bears
+                    Generation 2
                   </p>
             </div>
 
             <div class="col-6">
                 <p class="page-header" data-aos="fade-right">
                     Phase 5 <br><br>
-                    Mint of 5,555 PIXI Bears
+                    Bear Dens
                   </p>
             </div>
 
             <div class="col-6">
-                <p class="page-header" data-aos="fade-right">
+                <p class="page-header" data-aos="fade-left">
                     Phase 6 <br><br>
-                    Mint of 5,555 PIXI Bears
+                    Giveway
                   </p>
             </div>
 
             <div class="col-6">
                 <p class="page-header" data-aos="fade-right">
                     Phase 7 <br><br>
-                    Mint of 5,555 PIXI Bears
+                    Trading tools & Merch Store
+                  </p>
+            </div>
+
+            <div class="col-6">
+                <p class="page-header" data-aos="fade-left">
+                    Phase 8 <br><br>
+                    Establishing DAO
                   </p>
             </div>
 
