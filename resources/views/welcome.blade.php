@@ -52,56 +52,47 @@
             <div class="col-6 mb-5">
                 <p class="page-header" data-aos="fade-right">
                     Phase 1 <br><br>
-                    Comunitry Creation
+                    <ul>
+                        <li>Storyline is out</li>
+                        <li>Website and Discord Creation</li>
+                        <li>Whitelisting Starts</li>
+                        <li>Building Pixie Community</li>
+                    </ul>
                   </p>
             </div>
 
             <div class="col-6 mt-5">
                 <p class="page-header" data-aos="fade-left">
                     Phase 2 <br><br>
-                    Mint of 5,555 Pixie Bears TBA
+                    <ul>
+                        <li>Rewarding creative community members</li>
+                        <li>Mint date announcement</li>
+                        <li>Collabs</li>
+                        <li>Whitelist Giveaways</li>
+                    </ul>
                   </p>
             </div>
 
             <div class="col-6 mb-5">
                 <p class="page-header" data-aos="fade-right">
                     Phase 3 <br><br>
-                    Staking
+                    <ul>
+                        <li>Mint going live</li>
+                        <li>Mint sold out</li>
+                        <li>Secondary Marketplace Listings</li>
+                    </ul>
                   </p>
             </div>
 
             <div class="col-6 mt-5">
                 <p class="page-header" data-aos="fade-left">
                     Phase 4 <br><br>
-                    Generation 2
-                  </p>
-            </div>
-
-            <div class="col-6 mb-5">
-                <p class="page-header" data-aos="fade-right">
-                    Phase 5 <br><br>
-                    Bear Dens
-                  </p>
-            </div>
-
-            <div class="col-6 mt-5">
-                <p class="page-header" data-aos="fade-left">
-                    Phase 6 <br><br>
-                    Giveway
-                  </p>
-            </div>
-
-            <div class="col-6 mb-5">
-                <p class="page-header" data-aos="fade-right">
-                    Phase 7 <br><br>
-                    Trading tools & Merch Store
-                  </p>
-            </div>
-
-            <div class="col-6 mt-5">
-                <p class="page-header" data-aos="fade-left">
-                    Phase 8 <br><br>
-                    Establishing DAO
+                    <ul>
+                        <li>$20000 Giveaway for early Supporters</li>
+                        <li>Staking Development</li>
+                        <li>Pixieverse Development</li>
+                        <li>70% of the Royalties will be used to reward community members through giveaways</li>
+                    </ul>
                   </p>
             </div>
 
