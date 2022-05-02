@@ -20,7 +20,8 @@
         "spatie/laravel-ignition": "^1.0"
     },
     "config": {
-        "cache-dir": "/home/pixijccn/public_html/cache"
+        "cache-dir": "/home/pixijccn/public_html/cache",
+        "platform-check": false
     },
     "autoload": {
         "psr-4": {
@@ -57,7 +58,8 @@
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
-        "sort-packages": true
+        "sort-packages": true,
+        "platform-check": false
     },
     "minimum-stability": "dev",
     "prefer-stable": true

@@ -203,7 +203,7 @@ textarea {
   img {
     page-break-inside: avoid;
   }
-  
+
   img {
     max-width: 100% !important;
   }
@@ -238,7 +238,7 @@ body {
   color: #fbecec;
   background-color: #0A64BC;
   overscroll-behavior-y: none;
-
+  overflow-x: hidden;
 }
 
 a {
@@ -789,6 +789,7 @@ h3:after {
 
 h1 {
   font-size: 28px;
+  line-height:1.33;
   text-transform: uppercase;
   margin:1rem 0;
 }
@@ -5816,12 +5817,12 @@ a.badge:focus {
   font-size: 18px;
   line-height: 20px;
   color: #ffffff;
-  background: url(https://art.pixilart.com/613a60ec0bf1df1.png) no-repeat center center; 
+  background: url(https://art.pixilart.com/613a60ec0bf1df1.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  height: 600px;
+  height: fit-content;
   background-color:#000;
   border: 4px double #ffffff;
   -webkit-border-radius: 0;
@@ -5928,7 +5929,7 @@ margin-bottom: 0 !important;
   background: rgba(0, 0, 0, 0);
   height: 20px;
   width: 20px;
-  box-shadow: 
+  box-shadow:
 /*1st line*/
   40px 0    0 #FFF000,
   60px 0    0 #FFF000,
@@ -6035,7 +6036,7 @@ margin-bottom: 0 !important;
   background: rgba(0, 0, 0, 0);
   height: 20px;
   width: 20px;
-  box-shadow: 
+  box-shadow:
 /*1st line*/
   50px 0    0 #FFF000,
   70px 0    0 #FFF000,
@@ -6137,7 +6138,7 @@ margin-bottom: 0 !important;
   background: rgba(0, 0, 0, 0);
   height: 20px;
   width: 20px;
-  box-shadow: 
+  box-shadow:
 /*1st line*/
   60px 0    0 #FFF000,
   80px 0    0 #FFF000,
@@ -6222,7 +6223,7 @@ margin-bottom: 0 !important;
   background: rgba(0, 0, 0, 0);
   height: 20px;
   width: 20px;
-  box-shadow: 
+  box-shadow:
 /*1st line*/
   70px 0    0 #FFF000,
   90px 0    0 #FFF000,
@@ -6285,7 +6286,7 @@ margin-bottom: 0 !important;
   background: rgba(0, 0, 0, 0);
   height: 20px;
   width: 20px;
-  box-shadow: 
+  box-shadow:
 /*1st line*/
   70px 0    0 #FFF000,
   90px 0    0 #FFF000,
@@ -6332,7 +6333,7 @@ margin-bottom: 0 !important;
   background: rgba(0, 0, 0, 0);
   height: 20px;
   width: 20px;
-  box-shadow: 
+  box-shadow:
 /*1st line*/
   70px 0    0 #FFF000,
   90px 0    0 #FFF000,
@@ -6395,7 +6396,7 @@ margin-bottom: 0 !important;
   background: rgba(0, 0, 0, 0);
   height: 20px;
   width: 20px;
-  box-shadow: 
+  box-shadow:
 /*1st line*/
   60px 0    0 #FFF000,
   80px 0    0 #FFF000,
@@ -6480,7 +6481,7 @@ margin-bottom: 0 !important;
   background: rgba(0, 0, 0, 0);
   height: 20px;
   width: 20px;
-  box-shadow: 
+  box-shadow:
 /*1st line*/
   50px 0    0 #FFF000,
   70px 0    0 #FFF000,

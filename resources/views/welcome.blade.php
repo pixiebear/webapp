@@ -25,29 +25,29 @@
 
     <div class="bs-docs-example" style="height: 100vh;margin: 10px;">
         <div class="hero-unit hero text-left" >
-          
+
 
           <h1 id="helloText" class="text-left"></h1>
           <p id="helloParag" style="padding:0;min-height: 160px; overflow: hidden;margin:0;"></p>
 
 
-          <p class="text-center" style="top: 650px;position: absolute;"><a class="btn btn-primary btn-large" href="#story">Learn more</a></p>
+          <p class="text-center" style="position: initial;margin-top: 50px;"><a class="btn btn-primary btn-large" href="#story">Learn more</a></p>
         </div>
     </div>
 
     <section id="story" style="padding-top: 80px;">
           <h1 class="text-center">Story</h1>
           <p class="mb-5">
-            Pixie Bears collection of 5555 Solana NFTs represents a group  of bears who had just woken up from a long hibernation and are ready to gather all the resources and never again worry about getting fat for winter. All the bear necessities you might imagine. Honey, berries, and of course salmon. Fat for life! 
+            Pixie Bears collection of 5555 Solana NFTs represents a group  of bears who had just woken up from a long hibernation and are ready to gather all the resources and never again worry about getting fat for winter. All the bear necessities you might imagine. Honey, berries, and of course salmon. Fat for life!
           </p>
     </section>
 
     <section id="roadmap" style="padding-top: 70px;">
-        
+
         <div class="page-header">
           <h1 class="text-center">ROAD MAP</h1>
         </div>
-    
+
         <ul class="thumbnails text-center span6">
           <li class="w-100 mb-5" >
             <p class="page-header" data-aos="fade-right">
@@ -55,30 +55,30 @@
               Mint of 5,555 PIXI Bears
             </p>
           </li>
-    
+
           <li class="w-100 mb-5" >
             <p class="page-header" data-aos="fade-right">
               Phase 3 <br><br>
               Mint of 5,555 PIXI Bears
             </p>
           </li>
-    
+
            <li class="w-100 mb-5" >
             <p class="page-header" data-aos="fade-right">
               Phase 5 <br><br>
               Mint of 5,555 PIXI Bears
             </p>
           </li>
-    
+
           <li class="w-100 mb-5" >
             <p class="page-header" data-aos="fade-right">
               Phase 7 <br><br>
               Mint of 5,555 PIXI Bears
             </p>
           </li>
-    
+
         </ul>
-    
+
         <ul class="thumbnails text-center span1">
           <li class="w-100" > | </li>
           <li class="w-100" > < </li>
@@ -105,7 +105,7 @@
           <li class="w-100" > > </li>
           <li class="w-100" > > </li>
         </ul>
-    
+
         <ul class="thumbnails text-center span6">
           <li class="w-100  mt-5" >
             <p class="page-header" data-aos="fade-left">
@@ -113,21 +113,21 @@
               Mint of 5,555 PIXI Bears
             </p>
           </li>
-    
+
           <li class="w-100  mt-5" >
             <p class="page-header" data-aos="fade-left">
               Phase 4 <br><br>
               Mint of 5,555 PIXI Bears
             </p>
           </li>
-       
+
           <li class="w-100 mt-5" >
             <p class="page-header" data-aos="fade-left">
               Phase 6 <br><br>
               Mint of 5,555 PIXI Bears
             </p>
           </li>
-    
+
           <li class="w-100 mt-5" >
             <p class="page-header" data-aos="fade-left">
               Phase 8 <br><br>
@@ -135,9 +135,9 @@
             </p>
           </li>
         </ul>
-    
 
-   
+
+
   </section>
 
     <section id="thumbnails">
@@ -171,7 +171,7 @@
             </div>
           </div>
         </li>
-        
+
           <li class="span4">
           <div class="thumbnail">
             <img  src="/img/Hurl.webp" style="width: 300px; height: 300px;">
@@ -182,7 +182,7 @@
             </div>
           </div>
         </li>
-        
+
             <li class="span4">
           <div class="thumbnail">
             <img  src="/img/Trif.webp" style="width: 300px; height: 300px;">

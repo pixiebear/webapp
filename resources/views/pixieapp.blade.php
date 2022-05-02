@@ -14,13 +14,13 @@
 
 
     <!-- Latest compiled and minified CSS -->
-    
+
      <link href="/css/bootstrap.css" rel="stylesheet">
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
       }
-      
+
       #overlay{
             position: fixed;
             background: black;
@@ -34,8 +34,8 @@
 	 margin: 0;
 	 background-color: black;
       }
-      
-      
+
+
  .c-loader {
 	 width: 240px;
 	 display: flex;
@@ -262,7 +262,7 @@
 	 transform: translateZ(0);
 	 outline: 90px solid transparent !important;
 }
- 
+
     </style>
     <!-- Latest compiled and minified CSS -->
    <link href="/css/bootstrap-responsive.css" rel="stylesheet">
@@ -286,7 +286,7 @@
       <script>
           $(document).ready(function(){
               $('#helloText').typewrite({
-                
+
                   actions: [
                       {delay: 3500},
                   {speed: 19},
@@ -297,7 +297,7 @@
               });
 
               $('#helloParag').typewrite({
-                
+
                 actions: [
                     {delay: 4500},
                     {blinkingCursor:false},
@@ -305,8 +305,8 @@
                     {blinkSpeed: 0},
                     {type: 'Tired of all those collections under the pretext &#39;we are saving the word&#39; &#39;we want to help you with your mental health&#39; and it is quite obvious making as much money as possible is the only agenda. We too want to make as much money as possible by helping you do the same and being downright honest about it. None of the money will be donated anywhere. All the money stays right here, in the community.'},
                     {speed: 8},
-                    
-                    
+
+
                 ]
             });
           });
@@ -314,7 +314,7 @@
   </head>
 
   <body id="home">
-    
+
 
     @include('header')
 
@@ -324,10 +324,10 @@
              <div class="page-header">
           <h1 class="text-center">Frequently Asked Questions</h1>
         </div>
-            
+
         </section>
-       
-        
+
+
         <footer>
           <p>© PIXI BEAERS 2022</p>
         </footer>
@@ -338,7 +338,7 @@
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
-   
+
     <script src="../assets/js/bootstrap-transition.js"></script>
     <script src="../assets/js/bootstrap-alert.js"></script>
     <script src="../assets/js/bootstrap-modal.js"></script>
@@ -351,19 +351,19 @@
     <script src="../assets/js/bootstrap-collapse.js"></script>
     <script src="../assets/js/bootstrap-carousel.js"></script>
     <script src="../assets/js/bootstrap-typeahead.js"></script>
-    <script src="/public/js/coin.js"></script>
+   
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
       AOS.init();
-      
+
       $(window).load(function(){
    setTimeout(
-  function() 
+  function()
   {
    $('#overlay').fadeOut();
   }, 2300);
-   
+
 });
 
 
@@ -386,13 +386,13 @@ function initLoader () {
   const loader = document.querySelector('.c-loader')
   loader.classList.add('is--started')
 }
-  
+
 // Init the audio
 function initAudio () {
 
   playSounds();
   setInterval(playSounds, 9000);
-  
+
   function playSounds() {
     console.log('play')
     loading.currentTime = 0;
@@ -408,7 +408,7 @@ function initAudio () {
 
 // Animate button
 function initButton() {
-  
+
   var isSafari = /constructor/i.test(window.HTMLElement);
   var isFF = !!navigator.userAgent.match(/firefox/i);
 
@@ -418,8 +418,8 @@ function initButton() {
   const button = document.querySelector('.c-button')
   const turbVal = { val: 0.000001 };
   const turb = document.querySelector('#filter-distorted feTurbulence')
-  const buttonTimeline = new TimelineLite({ 
-    paused: true, 
+  const buttonTimeline = new TimelineLite({
+    paused: true,
     onUpdate: () => turb.setAttribute('baseFrequency', '0.00001 ' + turbVal.val), // Firefox bug is value is 0
     onStart: () => button.style.filter = 'url(#filter-distorted)',
     onComplete: () => button.style.filter = 'none'

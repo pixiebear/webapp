@@ -19,3 +19,7 @@
 
 
 @endsection
+
+@push('scripts')
+<script src="/public/js/coin.js"></script>
+@endpush
