@@ -70,7 +70,7 @@
                         <div class="col-md-6 pr-0">
                           <div class="timeline-box" data-aos="fade-left">
                             <div class="timeline-icon">
-                                <img src="https://i.gifer.com/origin/42/42140ecfcd85c8b5ddd4cd60322594c3_w200.webp">
+                                <img style="margin-left: -12px;" src="https://i.gifer.com/origin/42/42140ecfcd85c8b5ddd4cd60322594c3_w200.webp">
                             </div>
                             <div class="timeline-text">
                               <p>Storyline is Out</p>
@@ -94,7 +94,7 @@
                               <p>Whitelist Giveaways</p>
                             </div>
                             <div class="timeline-icon d-md-block d-none">
-                                <img src="https://i.gifer.com/origin/9f/9f90c58ff4b9f3ed1adff97e43416056_w200.webp">
+                                <img src="https://i.gifer.com/origin/83/832c4b29ea3216269ae21b7eedb795ac_w200.webp" style="margin-right: -10px;">
                             </div>
                           </div>
                         </div>
@@ -116,7 +116,7 @@
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-left">
                             <div class="timeline-icon">
-                                <img src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.webp">
+                                <img style="margin-left: -10px;"  width="35" src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.webp">
                             </div>
                             <div class="timeline-text">
 
@@ -143,7 +143,7 @@
 
                             </div>
                             <div class="timeline-icon d-md-block d-none">
-                                <img src="https://i.gifer.com/origin/18/1881d8691bd9ff18bea62c0a275e1da6_w200.webp">
+                                <img src="https://i.gifer.com/origin/18/1881d8691bd9ff18bea62c0a275e1da6_w200.webp" style="margin-right: -10px;">
                             </div>
                           </div>
                         </div>
