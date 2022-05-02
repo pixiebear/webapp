@@ -4449,6 +4449,9 @@ input[type="submit"].btn.btn-mini {
   float: right;
   padding: 0 12.4px;
   margin-right: 12.4px;
+  position: absolute;
+    right: 8px;
+    top: 18px;
   margin-left: 12.4px;
   *background-color: #aeaeae;
   filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
