@@ -267,6 +267,13 @@ a:focus {
   margin-left: 16px;
 }
 
+.container,
+.navbar-static-top .container,
+.navbar-fixed-top .container,
+.navbar-fixed-bottom .container {
+  width: 944px;
+}
+
 .span12 {
   width: 944px;
 }
@@ -4337,6 +4344,11 @@ input[type="submit"].btn.btn-mini {
           border-radius: 0;
 }
 
+.navbar-static-top .container,
+.navbar-fixed-top .container,
+.navbar-fixed-bottom .container {
+  width: 944px;
+}
 
 .navbar-fixed-top {
   top: 0;
