@@ -49,7 +49,7 @@
         </div>
 
         <div class="row">
-            <div class="col-6 mb-5">
+            <div class="col-12 col-md-6  mb-5">
                 <p class="page-header" data-aos="fade-right">
                     Phase 1 <br><br>
 
@@ -63,7 +63,7 @@
                 </ul>
             </div>
 
-            <div class="col-6 mt-5">
+            <div class="col-12 col-md-6  mt-5">
                 <p class="page-header" data-aos="fade-left">
                     Phase 2 <br><br>
 
@@ -77,7 +77,7 @@
                 </ul>
             </div>
 
-            <div class="col-6 mb-5">
+            <div class="col-12 col-md-6  mb-5">
                 <p class="page-header" data-aos="fade-right">
                     Phase 3 <br><br>
                   </p>
@@ -89,7 +89,7 @@
                 </ul>
             </div>
 
-            <div class="col-6 mt-5">
+            <div class="col-12 col-md-6 mt-5">
                 <p class="page-header" data-aos="fade-left">
                     Phase 4 <br><br>
 
@@ -103,7 +103,7 @@
                 </ul>
             </div>
 
-            <div class="col-6 mb-5">
+            <div class="col-12 col-md-6 mb-5">
                 <p class="page-header" data-aos="fade-right">
                     Phase 5 <br><br>
                     Roadmap v2.0
@@ -123,7 +123,7 @@
     <section id="thumbnails">
 <div class="row">
 
-    <div class="col-4">
+    <div class="col-12 col-md-6 col-lg-4">
         <div class="thumbnail">
             <img  src="/img/Snap.webp" style="width: 300px; height: 300px;">
         <div class="caption">
@@ -134,7 +134,7 @@
         </div>
     </div>
 
-    <div class="col-4">
+    <div class="col-12 col-md-6 col-lg-4">
 
         <div class="thumbnail">
             <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
@@ -147,7 +147,7 @@
       </div>
 
 
-      <div class="col-4">
+      <div class="col-12 col-md-6 col-lg-4">
         <div class="thumbnail">
             <img  src="/img/Chew.webp" style="width: 300px; height: 300px;">
             <div class="caption">
@@ -159,7 +159,7 @@
 
       </div>
 
-      <div class="col-4">
+      <div class="col-12 col-md-6 col-lg-4">
         <div class="thumbnail">
 
             <img  src="/img/Hurl.webp" style="width: 300px; height: 300px;">
@@ -172,7 +172,7 @@
         </div>
       </div>
 
-      <div class="col-4">
+      <div class="col-12 col-md-6 col-lg-4">
             <div class="thumbnail">
             <img  src="/img/Trif.webp" style="width: 300px; height: 300px;">
             <div class="caption">
