@@ -129,13 +129,13 @@
 
     <div class="col-4">
         <div class="bthumbnail">
+            <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
+                <h3>Noah</h3>
+                <p>Young hustla, he knows to find his way in grind. Old school trader.</p>
+                <p class="text-center"><a href="https://twitter.com/dika_marko" class="btn btn-primary">Twitter</a></p>
+              </div>
+        </div>
 
-        </div>
-        <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
-          <h3>Noah</h3>
-          <p>Young hustla, he knows to find his way in grind. Old school trader.</p>
-          <p class="text-center"><a href="https://twitter.com/dika_marko" class="btn btn-primary">Twitter</a></p>
-        </div>
       </div>
 
 
