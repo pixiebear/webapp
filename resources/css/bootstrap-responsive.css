@@ -801,16 +801,7 @@
 }
 
 @media (max-width: 767px) {
-  body {
-    padding-right: 18px;
-    padding-left: 18px;
-  }
-  .navbar-fixed-top,
-  .navbar-fixed-bottom,
-  .navbar-static-top {
-    margin-right: -10px;
-    margin-left: -10px;
-  }
+
   .container-fluid {
     padding: 0;
   }
