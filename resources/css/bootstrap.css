@@ -221,7 +221,9 @@ textarea {
     page-break-after: avoid;
   }
 }
-
+html{
+    overflow-x: hidden;
+}
 
 body {
   margin: 0;

@@ -944,6 +944,7 @@
 @media (max-width: 979px) {
   body {
     padding-top: 0;
+    overflow-x: hidden;
   }
   .navbar-fixed-top,
   .navbar-fixed-bottom {
