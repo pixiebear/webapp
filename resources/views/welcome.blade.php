@@ -1,7 +1,7 @@
 @extends('pixieapp')
 @section('title', 'PIXIE BEARS NFT')
-@section('description', '')
-@section('keywords', '')
+@section('description', 'Pixie Bears collection of 5555 Solana NFTs represents a group  of bears who had just woken up from a long hibernation and are ready to gather all the resources and never again worry about getting fat for winter. All the bear necessities you might imagine. Honey, berries, and of course salmon. Fat for life!')
+@section('keywords', 'NFT, SOLANA, PIXIE BEARS, SOL')
 @section('robots', '')
 @section('content')
   <div id="overlay">
@@ -59,7 +59,7 @@
             <div class="col-6">
                 <p class="page-header" data-aos="fade-left">
                     Phase 2 <br><br>
-                    Mint of 5,555 PIXI Bears TBA
+                    Mint of 5,555 Pixie Bears TBA
                   </p>
             </div>
 
