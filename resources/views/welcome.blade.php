@@ -68,7 +68,7 @@
                           </p>
                         </div>
                         <div class="col-md-6">
-                          <div class="timeline-box" data-aos="fade-right">
+                          <div class="timeline-box" data-aos="fade-left">
                             <div class="timeline-icon">
                               <i class="fa fa-gift"></i>
                             </div>
@@ -90,7 +90,7 @@
                           </p>
                         </div>
                         <div class="col-md-6">
-                          <div class="timeline-box">
+                          <div class="timeline-box" data-aos="fade-right">
                             <div class="timeline-icon d-md-none d-block">
                               <i class="fa fa-business-time"></i>
                             </div>
@@ -122,7 +122,7 @@
                           </p>
                         </div>
                         <div class="col-md-6">
-                          <div class="timeline-box" data-aos="fade-right">
+                          <div class="timeline-box" data-aos="fade-left">
                             <div class="timeline-icon">
                               <i class="fa fa-briefcase"></i>
                             </div>
@@ -137,11 +137,7 @@
                       </div>
 
                       <div class="row timeline-left">
-                        <div class="col-md-6 d-md-none d-block">
-                          <p class="timeline-date">
-                            Phase 4
-                          </p>
-                        </div>
+                       
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-right">
                             <div class="timeline-icon d-md-none d-block">
@@ -163,7 +159,7 @@
                         </div>
                         <div class="col-md-6 d-md-block d-none">
                           <p class="timeline-date">
-                            Phase 3
+                            Phase 4
                           </p>
                         </div>
                       </div>
@@ -189,77 +185,6 @@
               </div>
             </div>
           </div>
-
-
-        <div class="row">
-            <div class="col-12 col-md-6  mb-5">
-                <p class="page-header" data-aos="fade-right">
-                    Phase 1 <br><br>
-
-                  </p>
-
-                  <ul class="page-header" data-aos="fade-right">
-                    <li>Storyline is out.</li>
-                    <li>Website and Discord Creation.</li>
-                    <li>Whitelisting Starts.</li>
-                    <li>Building Pixie Community.</li>
-                </ul>
-            </div>
-
-            <div class="col-12 col-md-6  mt-5">
-                <p class="page-header" data-aos="fade-left">
-                    Phase 2 <br><br>
-
-                  </p>
-
-                  <ul class="page-header" data-aos="fade-right">
-                    <li>Rewarding creative community members.</li>
-                    <li>Mint date announcement.</li>
-                    <li>Collabs.</li>
-                    <li>Whitelist Giveaways.</li>
-                </ul>
-            </div>
-
-            <div class="col-12 col-md-6  mb-5">
-                <p class="page-header" data-aos="fade-right">
-                    Phase 3 <br><br>
-                  </p>
-
-                  <ul class="page-header" data-aos="fade-left">
-                    <li>Mint going live.</li>
-                    <li>Mint sold out.</li>
-                    <li>Secondary Marketplace Listings.</li>
-                </ul>
-            </div>
-
-            <div class="col-12 col-md-6 mt-5">
-                <p class="page-header" data-aos="fade-left">
-                    Phase 4 <br><br>
-
-                  </p>
-
-                  <ul class="page-header" data-aos="fade-left">
-                    <li>$20000 Giveaway for early Supporters.</li>
-                    <li>Staking Development.</li>
-                    <li>Pixieverse Development.</li>
-                    <li>70% of the Royalties will be used to reward community members through giveaways.</li>
-                </ul>
-            </div>
-
-            <div class="col-12 col-md-6 mb-5">
-                <p class="page-header" data-aos="fade-right">
-                    Phase 5 <br><br>
-                    Roadmap v2.0
-                  </p>
-            </div>
-
-
-
-        </div>
-
-
-
-
 
   </section>
 
