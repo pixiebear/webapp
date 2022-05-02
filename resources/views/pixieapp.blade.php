@@ -3,10 +3,12 @@
   <head>
     <meta charset="utf-8">
     <title>Pixiebears.xyz</title>
+    <link rel="icon" type="image/x-icon" href="/img/fav.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-
+    <meta property="og:image" content="@yield('ogimage', 'https://pixiebears.xyz/img/Chew.webp')">
+    <meta name="twitter:image" content="@yield('twimage','https://pixiebears.xyz/img/Chew.webp')">
     <!-- Le styles -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -16,7 +18,7 @@
     <!-- Latest compiled and minified CSS -->
 
      <link href="{{ mix('/css/bootstrap.css') }}" rel="stylesheet">
-     
+
     <style>
       body {
         padding-top: 60px; /* 60px to make the container go all the way to the bottom of the topbar */
