@@ -200,7 +200,7 @@
             <img  src="/img/Snap.webp" style="width: 300px; height: 300px;">
         <div class="caption">
             <h3>Whoopty J</h3>
-            <p>Papa bear, knows it all in crypto. BTC & SOL MAXI </p>
+            <p>Papa bear, cryptoforest is his turf.  All BTC and SOL trades go through him!</p>
             <p class="text-center"><a href="https://twitter.com/whooptyJJ" class="btn btn-primary">Twitter</a></p>
         </div>
         </div>
@@ -211,7 +211,7 @@
         <div class="thumbnail">
             <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
                 <h3>Noah</h3>
-                <p>Young hustla, he knows to find his way in grind. Old school trader.</p>
+                <p>Young hustla, grinding his way to the top. True OG.</p>
                 <p class="text-center"><a href="https://twitter.com/dika_marko" class="btn btn-primary">Twitter</a></p>
               </div>
         </div>
@@ -224,7 +224,7 @@
             <img  src="/img/Chew.webp" style="width: 300px; height: 300px;">
             <div class="caption">
              <h3>Chewy</h3>
-             <p>Chewy is chewing code and desing. He's half Neo half Cicada.</p>
+             <p>Chewy is chewing code and design. He's half Neo half Cicada.</p>
              <p class="text-center"><a href="https://twitter.com/immrdrop" class="btn btn-primary">Twitter</a></p>
            </div>
         </div>
@@ -238,7 +238,7 @@
 
             <div class="caption">
                 <h3>Hurl</h3>
-                <p>Gurl our Hurl is drowing this amazing art. She's undiscoved dimond talent. </p>
+                <p>Our gurl Hurl is drawing this amazing art. She's a gorgeous diamond in the rough.</p>
 
               </div>
         </div>
@@ -249,8 +249,7 @@
             <img  src="/img/Trif.webp" style="width: 300px; height: 300px;">
             <div class="caption">
             <h3>Trif</h3>
-            <p>You are reading it here, well Trif has writen this. Our firend and famus anononimus writer. </p>
-
+            <p>You read it here, Trif wrote it. Quite famous yet too humble to break his anonymity.</p>
             </div>
         </div>
     </div>
