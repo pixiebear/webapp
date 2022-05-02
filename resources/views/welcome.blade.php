@@ -115,16 +115,22 @@
 
     <section id="thumbnails">
 <div class="row">
-    <div class="thumbnail col-4">
-        <img  src="/img/Snap.webp" style="width: 300px; height: 300px;">
+
+    <div class="col-4">
+        <div class="thumbnail">
+            <img  src="/img/Snap.webp" style="width: 300px; height: 300px;">
         <div class="caption">
             <h3>Whoopty J</h3>
             <p>Papa bear, knows it all in crypto. BTC & SOL MAXI </p>
             <p class="text-center"><a href="https://twitter.com/whooptyJJ" class="btn btn-primary">Twitter</a></p>
         </div>
+        </div>
     </div>
 
-    <div class="thumbnail col-4">
+    <div class="col-4">
+        <div class="bthumbnail">
+
+        </div>
         <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
           <h3>Noah</h3>
           <p>Young hustla, he knows to find his way in grind. Old school trader.</p>
@@ -133,32 +139,41 @@
       </div>
 
 
-      <div class="thumbnail col-4">
-        <img  src="/img/Chew.webp" style="width: 300px; height: 300px;">
-         <div class="caption">
-          <h3>Chewy</h3>
-          <p>Chewy is chewing code and desing. He's half Neo half Cicada.</p>
-          <p class="text-center"><a href="https://twitter.com/nikoovic" class="btn btn-primary">Twitter</a> <a href="http://www.upwork.com/freelancers/~013ef3084934791776" class="btn">Upwork</a></p>
+      <div class="col-4">
+        <div class="thumbnail">
+            <img  src="/img/Chew.webp" style="width: 300px; height: 300px;">
+            <div class="caption">
+             <h3>Chewy</h3>
+             <p>Chewy is chewing code and desing. He's half Neo half Cicada.</p>
+             <p class="text-center"><a href="https://twitter.com/nikoovic" class="btn btn-primary">Twitter</a> <a href="http://www.upwork.com/freelancers/~013ef3084934791776" class="btn">Upwork</a></p>
+           </div>
+        </div>
+
+      </div>
+
+      <div class="col-4">
+        <div class="thumbnail">
+
+            <img  src="/img/Hurl.webp" style="width: 300px; height: 300px;">
+
+            <div class="caption">
+                <h3>Hurl</h3>
+                <p>Gurl our Hurl is drowing this amazing art. She's undiscoved dimond talent. </p>
+
+              </div>
         </div>
       </div>
 
-      <div class="thumbnail col-4">
-        <img  src="/img/Hurl.webp" style="width: 300px; height: 300px;">
-         <div class="caption">
-          <h3>Hurl</h3>
-          <p>Gurl our Hurl is drowing this amazing art. She's undiscoved dimond talent. </p>
+      <div class="col-4">
+            <div class="thumbnail">
+            <img  src="/img/Trif.webp" style="width: 300px; height: 300px;">
+            <div class="caption">
+            <h3>Trif</h3>
+            <p>You are reading it here, well Trif has writen this. Our firend and famus anononimus writer. </p>
 
+            </div>
         </div>
-      </div>
-
-      <div class="thumbnail col-4">
-        <img  src="/img/Trif.webp" style="width: 300px; height: 300px;">
-         <div class="caption">
-          <h3>Trif</h3>
-          <p>You are reading it here, well Trif has writen this. Our firend and famus anononimus writer. </p>
-
-        </div>
-      </div>
+    </div>
 
 </div>
 
