@@ -73,7 +73,6 @@
                               <i class="fa fa-gift"></i>
                             </div>
                             <div class="timeline-text">
-                              <h3>Phase 1</h3>
                               <p>Storyline is Out</p>
                               <p>Website and Discord Creation</p>
                               <p>Whitelisting Starts</p>
@@ -95,7 +94,7 @@
                               <i class="fa fa-business-time"></i>
                             </div>
                             <div class="timeline-text">
-                              <h3>Phase 2</h3>
+
                               <p>Rewarding Creative Community Members</p>
                               <p>Mint Date Announcement</p>
                               <p>Collabs</p>
@@ -127,7 +126,7 @@
                               <i class="fa fa-briefcase"></i>
                             </div>
                             <div class="timeline-text">
-                              <h3>Phase 3</h3>
+
                               <p>Mint Going Live</p>
                               <p>Mint Sold Out</p>
                               <p>Secondary Marketplace Listings</p>
@@ -137,14 +136,14 @@
                       </div>
 
                       <div class="row timeline-left">
-                       
+
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-right">
                             <div class="timeline-icon d-md-none d-block">
                               <i class="fa fa-cogs"></i>
                             </div>
                             <div class="timeline-text">
-                              <h3>Phase 4</h3>
+                           
                               <p>$20000 Giveaway for early supporters (Minters)</p>
                               <p> Staking Development</p>
                               <p>Pixieverse Development</p>
