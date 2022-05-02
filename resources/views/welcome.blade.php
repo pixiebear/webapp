@@ -70,7 +70,7 @@
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-left">
                             <div class="timeline-icon">
-                              <i class="fa fa-gift"></i>
+                                <img src="https://c.tenor.com/QMfaVm3kNy0AAAAC/moneda-girando-spinning.gif">
                             </div>
                             <div class="timeline-text">
                               <p>Storyline is Out</p>
@@ -91,7 +91,7 @@
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-right">
                             <div class="timeline-icon d-md-none d-block">
-                              <i class="fa fa-business-time"></i>
+                                <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/321d4d10-825b-4a2a-855d-e0cd6d0b0820/d5r3cyw-e2838b6c-89d1-4798-a76b-c964625a44b8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyMWQ0ZDEwLTgyNWItNGEyYS04NTVkLWUwY2Q2ZDBiMDgyMFwvZDVyM2N5dy1lMjgzOGI2Yy04OWQxLTQ3OTgtYTc2Yi1jOTY0NjI1YTQ0YjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.anXrbjUnTvGzFxvJqbbmDoaGTWonJn2I7tjaza-hjyo">
                             </div>
                             <div class="timeline-text">
 
@@ -101,7 +101,7 @@
                               <p>Whitelist Giveaways</p>
                             </div>
                             <div class="timeline-icon d-md-block d-none">
-                              <i class="fa fa-business-time"></i>
+                                <img src="https://i.pinimg.com/originals/96/4c/f1/964cf112c8928c7c75312f7f15e6b1e0.png">
                             </div>
                           </div>
                         </div>
@@ -123,7 +123,7 @@
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-left">
                             <div class="timeline-icon">
-                              <i class="fa fa-briefcase"></i>
+                                <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/41f48a29361a9f8.png">
                             </div>
                             <div class="timeline-text">
 
@@ -140,10 +140,10 @@
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-right">
                             <div class="timeline-icon d-md-none d-block">
-                              <i class="fa fa-cogs"></i>
+                                <img src="https://pixiebears.xyz/img/fav.png">
                             </div>
                             <div class="timeline-text">
-                           
+
                               <p>$20000 Giveaway for early supporters (Minters)</p>
                               <p> Staking Development</p>
                               <p>Pixieverse Development</p>
@@ -152,7 +152,7 @@
 
                             </div>
                             <div class="timeline-icon d-md-block d-none">
-                              <i class="fa fa-cogs"></i>
+                                <img src="https://www.codigogeek.com/wp-content/uploads/2009/08/Retro-Mushroom-1UP-2.png">
                             </div>
                           </div>
                         </div>
