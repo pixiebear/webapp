@@ -119,9 +119,9 @@
           <div class="thumbnail">
             <img  src="/img/Snap.webp" style="width: 300px; height: 300px;">
             <div class="caption">
-              <h3>Snap</h3>
+              <h3>Whoopty J</h3>
               <p>Papa bear, knows it all in crypto. BTC & SOL MAXI </p>
-              <p class="text-center"><a href="#" class="btn btn-primary">Twitter</a> <a href="#" class="btn">Discord</a></p>
+              <p class="text-center"><a href="https://twitter.com/whooptyJJ" class="btn btn-primary">Twitter</a></p>
             </div>
           </div>
         </li>
@@ -130,7 +130,7 @@
             <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
               <h3>Noah</h3>
               <p>Young hustla, he knows to find his way in grind. Old school trader.</p>
-              <p class="text-center"><a href="#" class="btn btn-primary">Twitter</a> <a href="#" class="btn">Discord</a></p>
+              <p class="text-center"><a href="https://twitter.com/dika_marko" class="btn btn-primary">Twitter</a></p>
             </div>
           </div>
         </li>
@@ -138,9 +138,9 @@
           <div class="thumbnail">
             <img  src="/img/Chew.webp" style="width: 300px; height: 300px;">
              <div class="caption">
-              <h3>Chew</h3>
-              <p>Chew is chewing code and desing. He's half Neo half Cicada.</p>
-              <p class="text-center"><a href="#" class="btn btn-primary">Twitter</a> <a href="http://www.upwork.com/freelancers/~013ef3084934791776" class="btn">Upwork</a></p>
+              <h3>Chewy</h3>
+              <p>Chewy is chewing code and desing. He's half Neo half Cicada.</p>
+              <p class="text-center"><a href="https://twitter.com/nikoovic" class="btn btn-primary">Twitter</a> <a href="http://www.upwork.com/freelancers/~013ef3084934791776" class="btn">Upwork</a></p>
             </div>
           </div>
         </li>
@@ -151,7 +151,7 @@
              <div class="caption">
               <h3>Hurl</h3>
               <p>Gurl our Hurl is drowing this amazing art. She's undiscoved dimond talent. </p>
-              <p class="text-center"><a href="#" class="btn btn-primary">Twitter</a> <a href="#" class="btn">Discord</a></p>
+
             </div>
           </div>
         </li>
@@ -162,7 +162,7 @@
              <div class="caption">
               <h3>Trif</h3>
               <p>You are reading it here, well Trif has writen this. Our firend and famus anononimus writer. </p>
-              <p class="text-center"><a href="#" class="btn btn-primary">Twitter</a> <a href="#" class="btn">Discord</a></p>
+           
             </div>
           </div>
         </li>
