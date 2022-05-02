@@ -49,56 +49,56 @@
         </div>
 
         <div class="row">
-            <div class="col-6">
+            <div class="col-6 mb-5">
                 <p class="page-header" data-aos="fade-right">
                     Phase 1 <br><br>
                     Comunitry Creation
                   </p>
             </div>
 
-            <div class="col-6">
+            <div class="col-6 mt-5">
                 <p class="page-header" data-aos="fade-left">
                     Phase 2 <br><br>
                     Mint of 5,555 Pixie Bears TBA
                   </p>
             </div>
 
-            <div class="col-6">
+            <div class="col-6 mb-5">
                 <p class="page-header" data-aos="fade-right">
                     Phase 3 <br><br>
                     Staking
                   </p>
             </div>
 
-            <div class="col-6">
+            <div class="col-6 mt-5">
                 <p class="page-header" data-aos="fade-left">
                     Phase 4 <br><br>
                     Generation 2
                   </p>
             </div>
 
-            <div class="col-6">
+            <div class="col-6 mb-5">
                 <p class="page-header" data-aos="fade-right">
                     Phase 5 <br><br>
                     Bear Dens
                   </p>
             </div>
 
-            <div class="col-6">
+            <div class="col-6 mt-5">
                 <p class="page-header" data-aos="fade-left">
                     Phase 6 <br><br>
                     Giveway
                   </p>
             </div>
 
-            <div class="col-6">
+            <div class="col-6 mb-5">
                 <p class="page-header" data-aos="fade-right">
                     Phase 7 <br><br>
                     Trading tools & Merch Store
                   </p>
             </div>
 
-            <div class="col-6">
+            <div class="col-6 mt-5">
                 <p class="page-header" data-aos="fade-left">
                     Phase 8 <br><br>
                     Establishing DAO
