@@ -116,7 +116,7 @@
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-left">
                             <div class="timeline-icon">
-                                <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/41f48a29361a9f8.png">
+                                <img src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.webp">
                             </div>
                             <div class="timeline-text">
 
@@ -132,9 +132,7 @@
 
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-right">
-                            <div class="timeline-icon d-md-none d-block">
-                                <img src="https://pixiebears.xyz/img/fav.png">
-                            </div>
+
                             <div class="timeline-text">
 
                               <p>$20000 Giveaway for early supporters (Minters)</p>
@@ -145,7 +143,7 @@
 
                             </div>
                             <div class="timeline-icon d-md-block d-none">
-                                <img src="https://www.codigogeek.com/wp-content/uploads/2009/08/Retro-Mushroom-1UP-2.png">
+                                <img src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.webp">
                             </div>
                           </div>
                         </div>
