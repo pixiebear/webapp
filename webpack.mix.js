@@ -10,7 +10,8 @@ const mix = require('laravel-mix');
  | file for the application as well as bundling up all the JS files.
  |
  */
-
+ mix.version();
+ 
 mix.css('resources/css/bootstrap.css', 'public/css')
     .css('resources/css/bootstrap-responsive.css', 'public/css');
 
