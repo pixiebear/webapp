@@ -6597,15 +6597,12 @@ margin-bottom: 0 !important;
   .timeline .timeline-start p,
   .timeline .timeline-year p {
     display: inline-block;
-    width: 80px;
+    width: fit-content;
     height: 80px;
     margin: 0;
-    padding: 30px 0;
+    padding: 30px 10px;
     text-align: center;
-    background: linear-gradient(#4F84C4, #00539C);
-    border-radius: 100px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, .4);
-    color: #ffffff;
+    background: #0aa;
     font-size: 14px;
     text-transform: uppercase;
   }
