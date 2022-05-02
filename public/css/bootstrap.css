@@ -203,6 +203,7 @@ textarea {
   img {
     page-break-inside: avoid;
   }
+  
   img {
     max-width: 100% !important;
   }
@@ -326,6 +327,10 @@ a:focus {
 
 .span1 {
   width: 64px;
+}
+
+#roadmap{
+    padding-top:70px !important;
 }
 
 .offset12 {
@@ -635,13 +640,6 @@ a:focus {
   clear: both;
 }
 
-img {
-  -webkit-filter: contrast(800%);
-     -moz-filter: contrast(1000%);
-      -ms-filter: contrast(800%);
-       -o-filter: contrast(800%);
-          filter: contrast(1000%);
-}
 
 p {
   margin: 0 0 20px;
