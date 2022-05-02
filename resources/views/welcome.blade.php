@@ -42,14 +42,9 @@
           </p>
     </section>
 
-    <section id="roadmap" style="padding-top: 70px;">
-
-        <div class="page-header">
-          <h1 class="text-center">ROAD MAP</h1>
-        </div>
 
 
-
+    <section class="conteiner">
         <div class="entries">
             <div class="entry">
               <div class="title">2011</div>
@@ -95,6 +90,19 @@
               </div>
             </div>
           </div>
+
+    </section>
+
+
+    <section id="roadmap" style="padding-top: 70px;">
+
+        <div class="page-header">
+          <h1 class="text-center">ROAD MAP</h1>
+        </div>
+
+
+
+
 
         <div class="row">
             <div class="col-12 col-md-6  mb-5">
