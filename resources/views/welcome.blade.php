@@ -128,7 +128,7 @@
     </div>
 
     <div class="col-4">
-        
+
         <div class="thumbnail">
             <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
                 <h3>Noah</h3>
@@ -146,7 +146,7 @@
             <div class="caption">
              <h3>Chewy</h3>
              <p>Chewy is chewing code and desing. He's half Neo half Cicada.</p>
-             <p class="text-center"><a href="https://twitter.com/nikoovic" class="btn btn-primary">Twitter</a> <a href="http://www.upwork.com/freelancers/~013ef3084934791776" class="btn">Upwork</a></p>
+             <p class="text-center"><a href="https://twitter.com/immrdrop" class="btn btn-primary">Twitter</a></p>
            </div>
         </div>
 
