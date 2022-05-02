@@ -48,93 +48,59 @@
           <h1 class="text-center">ROAD MAP</h1>
         </div>
 
-        <ul class="thumbnails text-center span6">
-          <li class="w-100 mb-5" >
-            <p class="page-header" data-aos="fade-right">
-              Phase 1 <br><br>
-              Mint of 5,555 PIXI Bears
-            </p>
-          </li>
+        <div class="row">
+            <div class="col-6">
+                <p class="page-header" data-aos="fade-right">
+                    Phase 1 <br><br>
+                    Mint of 5,555 PIXI Bears
+                  </p>
+            </div>
 
-          <li class="w-100 mb-5" >
-            <p class="page-header" data-aos="fade-right">
-              Phase 3 <br><br>
-              Mint of 5,555 PIXI Bears
-            </p>
-          </li>
+            <div class="col-6">
+                <p class="page-header" data-aos="fade-right">
+                    Phase 2 <br><br>
+                    Mint of 5,555 PIXI Bears
+                  </p>
+            </div>
 
-           <li class="w-100 mb-5" >
-            <p class="page-header" data-aos="fade-right">
-              Phase 5 <br><br>
-              Mint of 5,555 PIXI Bears
-            </p>
-          </li>
+            <div class="col-6">
+                <p class="page-header" data-aos="fade-right">
+                    Phase 3 <br><br>
+                    Mint of 5,555 PIXI Bears
+                  </p>
+            </div>
 
-          <li class="w-100 mb-5" >
-            <p class="page-header" data-aos="fade-right">
-              Phase 7 <br><br>
-              Mint of 5,555 PIXI Bears
-            </p>
-          </li>
+            <div class="col-6">
+                <p class="page-header" data-aos="fade-right">
+                    Phase 4 <br><br>
+                    Mint of 5,555 PIXI Bears
+                  </p>
+            </div>
 
-        </ul>
+            <div class="col-6">
+                <p class="page-header" data-aos="fade-right">
+                    Phase 5 <br><br>
+                    Mint of 5,555 PIXI Bears
+                  </p>
+            </div>
 
-        <ul class="thumbnails text-center span1">
-          <li class="w-100" > | </li>
-          <li class="w-100" > < </li>
-          <li class="w-100" > < </li>
-          <li class="w-100" > | </li>
-          <li class="w-100" > > </li>
-          <li class="w-100" > > </li>
-          <li class="w-100" > | </li>
-          <li class="w-100" > < </li>
-          <li class="w-100" > < </li>
-          <li class="w-100" > | </li>
-          <li class="w-100" > > </li>
-          <li class="w-100" > > </li>
-          <li class="w-100" > | </li>
-          <li class="w-100" > < </li>
-          <li class="w-100" > < </li>
-          <li class="w-100" > | </li>
-          <li class="w-100" > > </li>
-          <li class="w-100" > > </li>
-          <li class="w-100" > | </li>
-          <li class="w-100" > < </li>
-          <li class="w-100" > < </li>
-          <li class="w-100" > | </li>
-          <li class="w-100" > > </li>
-          <li class="w-100" > > </li>
-        </ul>
+            <div class="col-6">
+                <p class="page-header" data-aos="fade-right">
+                    Phase 6 <br><br>
+                    Mint of 5,555 PIXI Bears
+                  </p>
+            </div>
 
-        <ul class="thumbnails text-center span6">
-          <li class="w-100  mt-5" >
-            <p class="page-header" data-aos="fade-left">
-              Phase 2 <br><br>
-              Mint of 5,555 PIXI Bears
-            </p>
-          </li>
+            <div class="col-6">
+                <p class="page-header" data-aos="fade-right">
+                    Phase 7 <br><br>
+                    Mint of 5,555 PIXI Bears
+                  </p>
+            </div>
 
-          <li class="w-100  mt-5" >
-            <p class="page-header" data-aos="fade-left">
-              Phase 4 <br><br>
-              Mint of 5,555 PIXI Bears
-            </p>
-          </li>
+        </div>
 
-          <li class="w-100 mt-5" >
-            <p class="page-header" data-aos="fade-left">
-              Phase 6 <br><br>
-              Mint of 5,555 PIXI Bears
-            </p>
-          </li>
 
-          <li class="w-100 mt-5" >
-            <p class="page-header" data-aos="fade-left">
-              Phase 8 <br><br>
-              Mint of 5,555 PIXI Bears
-            </p>
-          </li>
-        </ul>
 
 
 
