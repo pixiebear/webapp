@@ -67,6 +67,7 @@
                             Phase 1
                           </p>
                         </div>
+
                         <div class="col-md-6 pr-0">
                           <div class="timeline-box" data-aos="fade-left">
                             <div class="timeline-icon">
@@ -83,6 +84,11 @@
                       </div>
 
                       <div class="row timeline-left">
+                        <div class="col-md-6 d-md-none d-block">
+                            <p class="timeline-date">
+                              Phase 2
+                            </p>
+                          </div>
 
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-right">
@@ -129,7 +135,11 @@
                       </div>
 
                       <div class="row timeline-left">
-
+                        <div class="col-md-6 d-md-none d-block">
+                            <p class="timeline-date">
+                              Phase 4
+                            </p>
+                          </div>
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-right">
 
