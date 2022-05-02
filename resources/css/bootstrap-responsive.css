@@ -66,6 +66,7 @@
 }
 
 @media (min-width: 768px) and (max-width: 979px) {
+
   .hidden-desktop {
     display: inherit !important;
   }
@@ -972,6 +973,7 @@
     padding: 0;
   }
   .navbar .brand {
+      width:100%;
     padding: 10px 10px;
     margin: 0;
   }
@@ -1103,7 +1105,7 @@
   .navbar .btn-navbar:after {
     content: "";
   }
- 
+
   .navbar .btn-navbar.active,
   .navbar .btn-navbar:active {
     margin-bottom: 20px;
