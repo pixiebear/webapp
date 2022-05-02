@@ -92,7 +92,9 @@
 
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-right">
-
+                            <div class="timeline-icon d-md-none d-block">
+                                <img src="https://i.gifer.com/origin/83/832c4b29ea3216269ae21b7eedb795ac_w200.webp" style="margin-right: -10px;">
+                              </div>
                             <div class="timeline-text">
                               <p>Rewarding Creative Community Members</p>
                               <p>Mint Date Announcement</p>
@@ -142,7 +144,9 @@
                           </div>
                         <div class="col-md-6">
                           <div class="timeline-box" data-aos="fade-right">
-
+                            <div class="timeline-icon d-md-none d-block">
+                                <img src="https://i.gifer.com/origin/18/1881d8691bd9ff18bea62c0a275e1da6_w200.webp" style="margin-right: -10px;">
+                            </div>
                             <div class="timeline-text">
 
                               <p>$20000 Giveaway for early supporters (Minters)</p>
