@@ -143,7 +143,7 @@
 
                             </div>
                             <div class="timeline-icon d-md-block d-none">
-                                <img src="https://i.gifer.com/origin/e0/e02ce86bcfd6d1d6c2f775afb3ec8c01_w200.webp">
+                                <img src="https://i.gifer.com/origin/18/1881d8691bd9ff18bea62c0a275e1da6_w200.webp">
                             </div>
                           </div>
                         </div>
