@@ -23,7 +23,7 @@
 
 
 
-    <div class="bs-docs-example" style="height: 100vh;margin: 10px;">
+    <div class="bs-docs-example" style="margin: 10px;">
         <div class="hero-unit hero text-left" >
 
 
