@@ -96,6 +96,15 @@
                   </p>
             </div>
 
+            <div class="col-6 mb-5">
+                <p class="page-header" data-aos="fade-right">
+                    Phase 5 <br><br>
+                    Roadmap v2.0
+                  </p>
+            </div>
+
+
+
         </div>
 
 
