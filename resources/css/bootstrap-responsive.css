@@ -1103,9 +1103,7 @@
   .navbar .btn-navbar:after {
     content: "";
   }
-  .navbar .btn-navbar:before {
-    content: "▼";
-  }
+ 
   .navbar .btn-navbar.active,
   .navbar .btn-navbar:active {
     margin-bottom: 20px;
