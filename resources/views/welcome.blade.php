@@ -70,7 +70,7 @@
                         <div class="col-md-6 pr-0">
                           <div class="timeline-box" data-aos="fade-left">
                             <div class="timeline-icon">
-                                <img src="https://c.tenor.com/QMfaVm3kNy0AAAAC/moneda-girando-spinning.gif">
+                                <img src="https://i.gifer.com/origin/42/42140ecfcd85c8b5ddd4cd60322594c3_w200.webp">
                             </div>
                             <div class="timeline-text">
                               <p>Storyline is Out</p>
@@ -94,7 +94,7 @@
                               <p>Whitelist Giveaways</p>
                             </div>
                             <div class="timeline-icon d-md-block d-none">
-                                <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/321d4d10-825b-4a2a-855d-e0cd6d0b0820/d5r3cyw-e2838b6c-89d1-4798-a76b-c964625a44b8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzMyMWQ0ZDEwLTgyNWItNGEyYS04NTVkLWUwY2Q2ZDBiMDgyMFwvZDVyM2N5dy1lMjgzOGI2Yy04OWQxLTQ3OTgtYTc2Yi1jOTY0NjI1YTQ0YjguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.anXrbjUnTvGzFxvJqbbmDoaGTWonJn2I7tjaza-hjyo">
+                                <img src="https://i.gifer.com/origin/9f/9f90c58ff4b9f3ed1adff97e43416056_w200.webp">
                             </div>
                           </div>
                         </div>
