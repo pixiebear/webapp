@@ -336,7 +336,7 @@
                         How many mintable NFTs will there be ?
                       </a>
                     </div>
-                    <div id="collapseFive" class="accordion-body in collapse" style="height: auto;">
+                    <div id="collapseFive" class="accordion-body collapse" style="height: auto;">
                       <div class="accordion-inner">
                         There are gonna be 5555 mintable NFTs on Solana Blockchain
                     </div>
@@ -349,7 +349,7 @@
                         When is the minting date ?
                       </a>
                     </div>
-                    <div id="collapseSix" class="accordion-body in collapse" style="height: auto;">
+                    <div id="collapseSix" class="accordion-body collapse" style="height: auto;">
                       <div class="accordion-inner">
                         Minting date is yet to be announced
                     </div>
@@ -363,7 +363,7 @@
                         What is gonna be the minting price?
                       </a>
                     </div>
-                    <div id="collapseSeven" class="accordion-body in collapse" style="height: auto;">
+                    <div id="collapseSeven" class="accordion-body collapse" style="height: auto;">
                       <div class="accordion-inner">
                         The minting price is gonna be 0.55 SOL per mint for WHITELISTED membears, and 0.7 for PUBLIC sale.
                     </div>
@@ -390,7 +390,7 @@
                     Where can I hear about the project development?
                   </a>
                 </div>
-                <div id="collapseOne" class="accordion-body in collapse" style="height: auto;">
+                <div id="collapseOne" class="accordion-body collapse" style="height: auto;">
                   <div class="accordion-inner">
                     Latest Pixie Bears updates, only on our official links. Provided on this website.
                 </div>
