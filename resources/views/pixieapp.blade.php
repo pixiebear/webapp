@@ -287,10 +287,7 @@
       <script src="/public/js/jquery.js"></script>
       <script src="/public/js/typewrite.js"></script>
 
-      <audio controls="controls" autoplay="autoplay" class="d-none">
-        <source src="/mp3/keyboardDigital.mp3" type="audio/mp3" />
-      </audio>
-      
+
       <script>
           $(document).ready(function(){
               $('#helloText').typewrite({
@@ -304,19 +301,6 @@
                   ]
               });
 
-              $('#helloParag').typewrite({
-
-                actions: [
-                    {delay: 4500},
-                    {blinkingCursor:false},
-                    {speed: 60},
-                    {blinkSpeed: 0},
-                    {type: 'Tired of all those collections under the pretext &#39;we are saving the word&#39; &#39;we want to help you with your mental health&#39; and it is quite obvious making as much money as possible is the only agenda. We too want to make as much money as possible by helping you do the same and being downright honest about it. None of the money will be donated anywhere. All the money stays right here, in the community.'},
-                    {speed: 8},
-
-
-                ]
-            });
           });
       </script>
   </head>

@@ -35,8 +35,6 @@
 
 
           <h1 id="helloText" class="text-left"></h1>
-          <p id="helloParag" style="padding:0;min-height: 160px; overflow: hidden;margin:0;"></p>
-
 
           <p class="text-center" style="position: initial;margin-top: 50px;"><a class="btn btn-primary btn-large" href="#story">Learn more</a></p>
         </div>
