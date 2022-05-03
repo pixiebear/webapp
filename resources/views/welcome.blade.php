@@ -6,7 +6,7 @@
 @section('content')
 <style>
     .hero-unit{
-        background-image: url(https://thumbs.gfycat.com/PiercingOldfashionedAmethystgemclam-size_restricted.gif);
+        background-image: url(https://i.gifer.com/OuPh.gif);
     }
 </style>
 
