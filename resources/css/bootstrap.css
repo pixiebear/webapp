@@ -69,6 +69,7 @@ html {
   font-size: 100%;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
+      overscroll-behavior: none;
 }
 
 a:focus {
@@ -233,6 +234,7 @@ body {
   color: #fbecec;
   background-color: #0A64BC;
   overscroll-behavior-y: none;
+  overscroll-behavior: none;
   overflow-x: hidden;
 }
 
