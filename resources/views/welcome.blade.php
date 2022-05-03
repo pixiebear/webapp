@@ -239,7 +239,7 @@
       <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
         <div class="thumbnail">
 
-            <img  src="/img/Hurl.webp" style="width: 300px; height: 300px;">
+            <img  src="/img/hurl.webp" style="width: 300px; height: 300px;">
 
             <div class="caption">
                 <h3>Hurl</h3>
