@@ -5802,6 +5802,7 @@ a.badge:focus {
   -webkit-border-radius: 0;
      -moz-border-radius: 0;
           border-radius: 0;
+          min-height: 70vh;
   box-shadow: 0 0 0 4px #00aaaa;
 }
 
