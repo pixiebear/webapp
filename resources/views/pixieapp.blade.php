@@ -443,13 +443,28 @@
     <script>
       AOS.init();
 
+
+var pause = document.querySelector(".pause");
+var audio = document.querySelector(".audio");
+
+function togglePlay() {
+        if (audio.paused) {
+
+        pause.innerHTML = "🔇";
+        } else {
+        audio.pause();
+        pause.innerHTML = "🔊";
+        pause.style.color = " #848484";
+        }
+}
+
+
       $(window).load(function(){
    setTimeout(
   function()
   {
    $('#overlay').fadeOut();
    audio.play();
-   
   }, 2300);
 
 });
@@ -660,21 +675,7 @@ function ghostCursor(options) {
 }
 new ghostCursor()
 
-$( document ).ready(function() {
 
-var pause = document.querySelector(".pause");
-var audio = document.querySelector(".audio");
-
-function togglePlay() {
-if (audio.paused) {
-
-pause.innerHTML = "🔇";
-} else {
-audio.pause();
-pause.innerHTML = "🔊";
-pause.style.color = " #848484";
-}
-}
 
 
     </script>
