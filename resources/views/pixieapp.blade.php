@@ -398,7 +398,7 @@
         </section>
 
 
-        <footer>
+        <footer class="mt-5">
           <p>© PIXI BEAERS 2022</p>
         </footer>
 
