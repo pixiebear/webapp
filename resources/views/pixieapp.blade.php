@@ -323,7 +323,13 @@
     @include('header')
 
     <div class="container">
+
+
         @yield('content')
+
+
+
+
         <section id="faq">
              <div class="page-header">
           <h1 class="text-center">Frequently Asked Questions</h1>
@@ -333,7 +339,7 @@
 
         <div class="bs-docs-example">
             <div class="accordion" id="accordion2">
-              <div class="accordion-group">
+              <div class="accordion-group" data-aos="fade-up">
                 <div class="accordion-heading">
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
                     Where can I hear about the project development?
@@ -347,7 +353,7 @@
               </div>
 
 
-              <div class="accordion-group">
+              <div class="accordion-group" data-aos="fade-up">
                 <div class="accordion-heading">
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
                     Where can I buy my Pixie Bear?
@@ -360,7 +366,7 @@
                 </div>
               </div>
 
-              <div class="accordion-group">
+              <div class="accordion-group" data-aos="fade-up">
                 <div class="accordion-heading">
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
                     Will it be some Gated Comunity for Membears?
@@ -373,7 +379,7 @@
                 </div>
               </div>
 
-              <div class="accordion-group">
+              <div class="accordion-group" data-aos="fade-up">
                 <div class="accordion-heading">
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
                     Dose this project have WHITELIST??

@@ -5620,7 +5620,7 @@ a.badge:focus {
 }
 
 .accordion-group {
-  margin-bottom: 2px;
+  margin-bottom: 10px;
   border: 1px solid #e5e5e5;
   -webkit-border-radius: 0;
      -moz-border-radius: 0;
