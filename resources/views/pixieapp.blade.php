@@ -301,6 +301,13 @@
               });
 
 
+ $( document ).ready(function() {
+
+            setTimeout(function() {
+                audio.play();
+                }, 4500);
+
+});
 
               $('#helloParag').typewrite({
                 audio.play();
@@ -330,14 +337,7 @@
         @yield('content')
 
 
-        <div class="song">
-            <div class="title">Kawausoya - Sarazanmai</div>
-            <div class="pause" onclick="togglePlay()">🔇</div>
-            <div class="player">
-              <audio class="audio" src="/mp3/keyboardDigital.mp3" autoplay type="audio" loop=""></audio>
-            </div>
 
-          </div>
 
         <section id="faq">
              <div class="page-header">
@@ -406,6 +406,13 @@
           </div>
         </section>
 
+    </div><div class="song">
+        <div class="pause" onclick="togglePlay()">🔇</div>
+        <div class="player">
+            <audio class="audio" src="/mp3/keyboardDigital.mp3" autoplay type="audio" loop=""></audio>
+        </div>
+
+    </div>
 
         <footer class="mt-5">
           <p>© PIXI BEAERS 2022</p>
@@ -441,6 +448,8 @@
   function()
   {
    $('#overlay').fadeOut();
+   audio.play();
+   
   }, 2300);
 
 });
@@ -649,15 +658,9 @@ function ghostCursor(options) {
 
   init();
 }
-new ghostCursor();
+new ghostCursor()
 
 $( document ).ready(function() {
-
-setTimeout(function() {
-    audio.play();
-    }, 4500);
-
-});
 
 var pause = document.querySelector(".pause");
 var audio = document.querySelector(".audio");
