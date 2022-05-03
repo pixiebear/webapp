@@ -267,6 +267,8 @@
 	 outline: 90px solid transparent !important;
 }
 
+
+#notifypop{ display:none;}
     </style>
     <!-- Latest compiled and minified CSS -->
    <link href="{{ mix('/css/bootstrap-responsive.css') }}" rel="stylesheet">
@@ -318,8 +320,10 @@
       </script>
   </head>
 
-  <body id="home">
-
+  <body id="home" onload="autoNotify()">
+    <audio id="notifypop"> <!--Source the audio file. -->
+        <source src="/mp3/keyboardDigital.mp3" type="audio/mp3">
+</audio>
 
     @include('header')
 
@@ -428,23 +432,16 @@
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
-    <script>
-            var sound = document.createElement('audio')
-                sound.id = 'audio'
-                sound.controls = 'controls autoplay'
-                sound.src = '/mp3/keyboardDigital.mp3'
-                sound.type = 'audio/mp3'
-                document.body.appendChild(sound)
-
-                function playAudio() {
-                document.getElementById('audio').play();
-                }
-
-                setTimeout("playAudio()", 3000);
-    </script>
 
     <script>
+
       AOS.init();
+      var popupsound = document.getElementById("notifypop");
+
+function autoNotify() {
+   popupsound.play(); 
+}
+
 
       $(window).load(function(){
    setTimeout(
