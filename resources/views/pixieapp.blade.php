@@ -300,17 +300,8 @@
                   ]
               });
 
-
- $( document ).ready(function() {
-
-            setTimeout(function() {
-                audio.play();
-                }, 4500);
-
-});
-
               $('#helloParag').typewrite({
-                audio.play();
+
                 actions: [
                     {delay: 4500},
                     {blinkingCursor:false},
@@ -327,9 +318,13 @@
   </head>
 
   <body id="home">
-
+    <audio controls="controls" onloadeddata="var audioPlayer = this; setTimeout(function() { audioPlayer.play(); }, 2400)">
+        <source src="/mp3/keyboardDigital.mp3" type="audio/mpeg">
+      </audio>
 
     @include('header')
+
+
 
     <div class="container">
 
@@ -406,13 +401,6 @@
           </div>
         </section>
 
-    </div><div class="song">
-        <div class="pause" onclick="togglePlay()">🔇</div>
-        <div class="player">
-            <audio class="audio" src="/mp3/keyboardDigital.mp3" autoplay type="audio" loop=""></audio>
-        </div>
-
-    </div>
 
         <footer class="mt-5">
           <p>© PIXI BEAERS 2022</p>
@@ -657,30 +645,6 @@ function ghostCursor(options) {
   init();
 }
 new ghostCursor()
-
-
-
-$( document ).ready(function() {
-
-setTimeout(function() {
-    audio.pause();
-    }, 4500);
-
-});
-
-var pause = document.querySelector(".pause");
-var audio = document.querySelector(".audio");
-
-function togglePlay() {
-if (audio.paused) {
-
-pause.innerHTML = "🔇";
-} else {
-audio.pause();
-pause.innerHTML = "🔊";
-pause.style.color = " #848484";
-}
-}
 
 
     </script>
