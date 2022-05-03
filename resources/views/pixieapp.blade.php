@@ -277,11 +277,11 @@
     <![endif]-->
 
     <!-- Fav and touch icons -->
-    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/ico/apple-touch-icon-144-precomposed.png">
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/ico/apple-touch-icon-114-precomposed.png">
-      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/ico/apple-touch-icon-72-precomposed.png">
-                    <link rel="apple-touch-icon-precomposed" href="/ico/apple-touch-icon-57-precomposed.png">
-                                   <link rel="shortcut icon" href="/ico/favicon.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/img/fav.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/img/fav.png">
+      <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/img/fav.png">
+                    <link rel="apple-touch-icon-precomposed" href="/img/fav.png">
+                                   <link rel="shortcut icon" href="/img/fav.png">
                                       <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
 
       <script src="/public/js/jquery.js"></script>
@@ -647,6 +647,18 @@ function ghostCursor(options) {
 new ghostCursor()
 
 
+var sound = document.createElement('audio')
+sound.id = 'audio'
+sound.controls = 'controls'
+sound.src = '/mp3/keyboardDigital.mp3'
+sound.type = 'audio/mp3'
+document.body.appendChild(sound)
+
+function playAudio() {
+  document.getElementById('audio').play();
+}
+
+setTimeout("playAudio()", 3000);
     </script>
   </body>
 </html>
