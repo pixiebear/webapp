@@ -336,12 +336,12 @@
               <div class="accordion-group">
                 <div class="accordion-heading">
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
-                    Where can I hear new abouth your project?
+                    Where can I hear about the project development?
                   </a>
                 </div>
                 <div id="collapseOne" class="accordion-body in collapse" style="height: auto;">
                   <div class="accordion-inner">
-                    Keep it up with Pixie Bears, only on our official links that you can find on top of the page.
+                    Latest Pixie Bears updates, only on our official links. Provided on this website.
                 </div>
                 </div>
               </div>
@@ -355,7 +355,7 @@
                 </div>
                 <div id="collapseTwo" class="accordion-body collapse" style="height: 0px;">
                   <div class="accordion-inner">
-                   You can buy them only on Magic Eden from our official profile. Avoid buying Pixei Bears on anyother market, to prevent any type of scam.
+                    Pixies Bears can only be  purchased on Magic Eden using the official link on the website. All other sources are Scams.
                 </div>
                 </div>
               </div>
@@ -381,7 +381,7 @@
                 </div>
                 <div id="collapseFour" class="accordion-body collapse">
                   <div class="accordion-inner">
-                   HELL YEAH ! Get your stop in 3,2,1....
+                    You can bet your ass!
                   </div>
                 </div>
               </div>
