@@ -329,6 +329,61 @@
 
         <div class="bs-docs-example">
             <div class="accordion" id="accordion2">
+
+                <div class="accordion-group" data-aos="fade-up">
+                    <div class="accordion-heading">
+                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
+                        How many mintable NFTs will there be ?
+                      </a>
+                    </div>
+                    <div id="collapseFive" class="accordion-body in collapse" style="height: auto;">
+                      <div class="accordion-inner">
+                        There are gonna be 5555 mintable NFTs on Solana Blockchain
+                    </div>
+                    </div>
+                  </div>
+
+                  <div class="accordion-group" data-aos="fade-up">
+                    <div class="accordion-heading">
+                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSix">
+                        When is the minting date ?
+                      </a>
+                    </div>
+                    <div id="collapseSix" class="accordion-body in collapse" style="height: auto;">
+                      <div class="accordion-inner">
+                        Minting date is yet to be announced
+                    </div>
+                    </div>
+                  </div>
+
+
+                  <div class="accordion-group" data-aos="fade-up">
+                    <div class="accordion-heading">
+                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseSeven">
+                        What is gonna be the minting price?
+                      </a>
+                    </div>
+                    <div id="collapseSeven" class="accordion-body in collapse" style="height: auto;">
+                      <div class="accordion-inner">
+                        The minting price is gonna be 0.55 SOL per mint for WHITELISTED membears, and 0.7 for PUBLIC sale.
+                    </div>
+                    </div>
+                  </div>
+
+                  <div class="accordion-group" data-aos="fade-up">
+                    <div class="accordion-heading">
+                      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
+                        How do i get WHITELISTED?
+                      </a>
+                    </div>
+                    <div id="collapseFour" class="accordion-body collapse">
+                      <div class="accordion-inner">
+                        Stay active, help the community, submit art, make memes and be creative.
+                      </div>
+                    </div>
+                  </div>
+
+
               <div class="accordion-group" data-aos="fade-up">
                 <div class="accordion-heading">
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
@@ -345,19 +400,6 @@
 
               <div class="accordion-group" data-aos="fade-up">
                 <div class="accordion-heading">
-                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
-                    Where can I buy my Pixie Bear?
-                  </a>
-                </div>
-                <div id="collapseTwo" class="accordion-body collapse" style="height: 0px;">
-                  <div class="accordion-inner">
-                    Pixies Bears can only be  purchased on Magic Eden using the official link on the website. All other sources are Scams.
-                </div>
-                </div>
-              </div>
-
-              <div class="accordion-group" data-aos="fade-up">
-                <div class="accordion-heading">
                   <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseThree">
                     Will it be some Gated Comunity for Membears?
                   </a>
@@ -369,18 +411,7 @@
                 </div>
               </div>
 
-              <div class="accordion-group" data-aos="fade-up">
-                <div class="accordion-heading">
-                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFour">
-                    Dose this project have WHITELIST??
-                  </a>
-                </div>
-                <div id="collapseFour" class="accordion-body collapse">
-                  <div class="accordion-inner">
-                    You can bet your ass!
-                  </div>
-                </div>
-              </div>
+
 
 
             </div>
