@@ -287,12 +287,11 @@
       <script src="/public/js/jquery.js"></script>
       <script src="/public/js/typewrite.js"></script>
 
+      <audio controls="controls" autoplay="autoplay" class="d-none">
+        <source src="/mp3/keyboardDigital.mp3" type="audio/mp3" />
+      </audio>
+      
       <script>
-
-<audio controls="controls" autoplay="autoplay" class="d-none">
-  <source src="/mp3/keyboardDigital.mp3" type="audio/mp3" />
-</audio>
-
           $(document).ready(function(){
               $('#helloText').typewrite({
 
