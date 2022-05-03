@@ -330,13 +330,14 @@
         <div class="bs-docs-example">
             <div class="accordion" id="accordion2">
 
+
                 <div class="accordion-group" data-aos="fade-up">
                     <div class="accordion-heading">
                       <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseFive">
                         How many mintable NFTs will there be ?
                       </a>
                     </div>
-                    <div id="collapseFive" class="accordion-body collapse" style="height: auto;">
+                    <div id="collapseFive" class="accordion-body collapse">
                       <div class="accordion-inner">
                         There are gonna be 5555 mintable NFTs on Solana Blockchain
                     </div>
@@ -349,13 +350,12 @@
                         When is the minting date ?
                       </a>
                     </div>
-                    <div id="collapseSix" class="accordion-body collapse" style="height: auto;">
+                    <div id="collapseSix" class="accordion-body collapse">
                       <div class="accordion-inner">
                         Minting date is yet to be announced
-                    </div>
+                      </div>
                     </div>
                   </div>
-
 
                   <div class="accordion-group" data-aos="fade-up">
                     <div class="accordion-heading">
@@ -363,12 +363,13 @@
                         What is gonna be the minting price?
                       </a>
                     </div>
-                    <div id="collapseSeven" class="accordion-body collapse" style="height: auto;">
+                    <div id="collapseSeven" class="accordion-body collapse">
                       <div class="accordion-inner">
                         The minting price is gonna be 0.55 SOL per mint for WHITELISTED membears, and 0.7 for PUBLIC sale.
-                    </div>
+                      </div>
                     </div>
                   </div>
+
 
                   <div class="accordion-group" data-aos="fade-up">
                     <div class="accordion-heading">
@@ -386,14 +387,14 @@
 
               <div class="accordion-group" data-aos="fade-up">
                 <div class="accordion-heading">
-                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
                     Where can I hear about the project development?
                   </a>
                 </div>
-                <div id="collapseOne" class="accordion-body collapse" style="height: auto;">
+                <div id="collapseOne" class="accordion-body collapse">
                   <div class="accordion-inner">
                     Latest Pixie Bears updates, only on our official links. Provided on this website.
-                </div>
+                  </div>
                 </div>
               </div>
 
