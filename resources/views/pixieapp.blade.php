@@ -288,6 +288,21 @@
       <script src="/public/js/typewrite.js"></script>
 
       <script>
+
+            var sound = document.createElement('audio')
+            sound.id = 'audio'
+            sound.controls = 'controls'
+            sound.src = '/mp3/keyboardDigital.mp3'
+            sound.type = 'audio/mp3'
+            document.body.appendChild(sound)
+
+            function playAudio() {
+            document.getElementById('audio').play();
+            }
+
+            setTimeout("playAudio()", 3000);
+
+
           $(document).ready(function(){
               $('#helloText').typewrite({
 
@@ -644,19 +659,6 @@ function ghostCursor(options) {
 }
 new ghostCursor()
 
-
-var sound = document.createElement('audio')
-sound.id = 'audio'
-sound.controls = 'controls'
-sound.src = '/mp3/keyboardDigital.mp3'
-sound.type = 'audio/mp3'
-document.body.appendChild(sound)
-
-function playAudio() {
-  document.getElementById('audio').play();
-}
-
-setTimeout("playAudio()", 3000);
     </script>
   </body>
 </html>
