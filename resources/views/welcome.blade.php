@@ -79,10 +79,10 @@
                                 <img style="margin-left: -12px;" src="https://i.gifer.com/origin/42/42140ecfcd85c8b5ddd4cd60322594c3_w200.webp">
                             </div>
                             <div class="timeline-text">
-                              <p>Storyline is Out</p>
-                              <p>Website and Discord Creation</p>
-                              <p>Whitelisting Starts</p>
-                              <p>Building Pixie Community</p>
+                              <p>> Storyline is Out</p>
+                              <p>> Website and Discord Creation</p>
+                              <p>> Whitelisting Starts</p>
+                              <p>> Building Pixie Community</p>
                             </div>
                           </div>
                         </div>
@@ -101,10 +101,10 @@
                                 <img src="https://i.gifer.com/origin/83/832c4b29ea3216269ae21b7eedb795ac_w200.webp" style="margin-left: -10px;">
                               </div>
                             <div class="timeline-text">
-                              <p>Rewarding Creative Community Members</p>
-                              <p>Mint Date Announcement</p>
-                              <p>Collabs</p>
-                              <p>Whitelist Giveaways</p>
+                              <p>> Rewarding Creative Community Members</p>
+                              <p>> Mint Date Announcement</p>
+                              <p>> Collabs</p>
+                              <p>> Whitelist Giveaways</p>
                             </div>
                             <div class="timeline-icon d-md-block d-none">
                                 <img src="https://i.gifer.com/origin/83/832c4b29ea3216269ae21b7eedb795ac_w200.webp" style="margin-right: -10px;">
@@ -133,9 +133,9 @@
                             </div>
                             <div class="timeline-text">
 
-                              <p>Mint Going Live</p>
-                              <p>Mint Sold Out</p>
-                              <p>Secondary Marketplace Listings</p>
+                              <p>> Mint Going Live</p>
+                              <p>> Mint Sold Out</p>
+                              <p>> Secondary Marketplace Listings</p>
                             </div>
                           </div>
                         </div>
@@ -154,11 +154,11 @@
                             </div>
                             <div class="timeline-text">
 
-                              <p>$20000 Giveaway for early supporters (Minters)</p>
-                              <p> Staking Development</p>
-                              <p>Pixieverse Development</p>
-                              <p>Working on Roadmap 2.0</p>
-                              <p>PixieBears Merchandise</p>
+                              <p>> $20000 Giveaway for early supporters (Minters)</p>
+                              <p>> Staking Development</p>
+                              <p>> Pixieverse Development</p>
+                              <p>> Working on Roadmap 2.0</p>
+                              <p>> PixieBears Merchandise</p>
 
                             </div>
                             <div class="timeline-icon d-md-block d-none">
