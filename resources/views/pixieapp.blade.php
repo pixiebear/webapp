@@ -386,7 +386,7 @@
 
               <div class="accordion-group" data-aos="fade-up">
                 <div class="accordion-heading">
-                  <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+                  <a class="accordion-toggle collapsed" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
                     Where can I hear about the project development?
                   </a>
                 </div>
