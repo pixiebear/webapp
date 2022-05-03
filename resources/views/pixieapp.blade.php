@@ -267,8 +267,6 @@
 	 outline: 90px solid transparent !important;
 }
 
-
-#notifypop{ display:none;}
     </style>
     <!-- Latest compiled and minified CSS -->
    <link href="{{ mix('/css/bootstrap-responsive.css') }}" rel="stylesheet">
@@ -290,6 +288,10 @@
       <script src="/public/js/typewrite.js"></script>
 
       <script>
+
+<audio controls="controls" autoplay="autoplay" class="d-none">
+  <source src="/mp3/keyboardDigital.mp3" type="audio/mp3" />
+</audio>
 
           $(document).ready(function(){
               $('#helloText').typewrite({
@@ -320,10 +322,8 @@
       </script>
   </head>
 
-  <body id="home" onload="autoNotify()">
-    <audio id="notifypop"> <!--Source the audio file. -->
-        <source src="/mp3/keyboardDigital.mp3" type="audio/mp3">
-</audio>
+  <body id="home">
+
 
     @include('header')
 
@@ -434,14 +434,7 @@
 
 
     <script>
-
       AOS.init();
-      var popupsound = document.getElementById("notifypop");
-
-function autoNotify() {
-   popupsound.play(); 
-}
-
 
       $(window).load(function(){
    setTimeout(
