@@ -4,6 +4,13 @@
 @section('keywords', 'NFT, SOLANA, PIXIE BEARS, SOL')
 @section('robots', '')
 @section('content')
+<style>
+    .hero-unit{
+        background-image: url(https://64.media.tumblr.com/7ba4353…/97c69debd9c49469-bb/s540x810/a901657….gifv);
+    }
+</style>
+
+
   <div id="overlay">
             <div class="c-loader is--started">
                 <div class="c-loader__title">
