@@ -6,7 +6,7 @@
     <link rel="icon" type="image/x-icon" href="/img/fav.png">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="@yield('description', 'Pixie Bears collection of 5555 Solana NFTs represents a group of bears who had just woken up from a long hibernation and are ready to gather all the resources and never again worry about getting fat for winter. All the bear necessities you might imagine. Honey, berries, and of course salmon. Fat for life!')">
-    <meta name="keywords" content="@yield('keywords', 'NTF,SOLANA, ntf solana, pixie bears ntf, pixiebearssol, pixie bears nft solana')
+    <meta name="keywords" content="@yield('keywords', 'NTF,SOLANA, ntf solana, pixie bears ntf, pixiebearssol, pixie bears nft solana')">
     <meta name="author" content="">
     <meta property="og:image" content="@yield('ogimage', 'https://pixiebears.xyz/img/Chew.webp')">
     <meta name="twitter:image" content="@yield('twimage','https://pixiebears.xyz/img/Chew.webp')">
@@ -318,9 +318,7 @@
   </head>
 
   <body id="home">
-    <audio controls="controls" onloadeddata="var audioPlayer = this; setTimeout(function() { audioPlayer.play(); }, 2400)">
-        <source src="/mp3/keyboardDigital.mp3" type="audio/mpeg">
-      </audio>
+
 
     @include('header')
 
