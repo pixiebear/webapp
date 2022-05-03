@@ -267,10 +267,8 @@
 
     </section>
 
-
-
     @push('scripts')
-        <script>
+    <script>
             var sound = document.createElement('audio')
                 sound.id = 'audio'
                 sound.controls = 'controls'
@@ -283,8 +281,7 @@
                 }
 
                 setTimeout("playAudio()", 3000);
-        </script>
+    </script>
     @endpush
-
-
+    
   @endsection
