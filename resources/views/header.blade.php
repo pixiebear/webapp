@@ -9,10 +9,34 @@
             <img data-src="holder.js/300x200" alt="300x200" src="/public/img/twitteretro.gif" style="width: 40px; height: 40px; filter: none !important;">
           </a>
 
-            <a class="socialnav"  href="https://discord.gg/ewpGHAZBus">
+
+
+
+
+          <a class="socialnav"   data-toggle="modal" data-target="#DiscordModal">
             <img data-src="holder.js/300x200" alt="300x200" src="/public/img/discord.webp" style="width: 40px; height: 40px; filter: none !important;">
           </a>
-          <a class="socialnav" href="https://www.instagram.com/pixiebearsSOL/">
+
+               <!-- Modal -->
+               <div class="modal fade" id="DiscordModal" tabindex="-1" role="dialog" aria-labelledby="DiscordModalLabel" aria-hidden="true">
+                <div class="modal-dialog" role="document">
+                  <div class="modal-content">
+                    <div class="modal-header">
+                      <h5 class="modal-title" id="DiscordModalLabel"> <img data-src="holder.js/300x200" alt="300x200" src="/public/img/discord.webp" style="width: 40px; height: 40px; filter: none !important;"> PIXIE BEARS DISCORD</h5>
+
+                    </div>
+                    <div class="modal-body">
+                      Our discord is currently CLOSED, follow us on <a href="https://twitter.com/PixieBearsSOL">twitter</a> to get inside first !
+                    </div>
+                    <div class="modal-footer text-center">
+                      <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+
+                    </div>
+                  </div>
+                </div>
+              </div>
+
+          <a class="socialnav" href="https://www.instagram.com/pixiebears_SOL/">
             <img data-src="holder.js/300x200" alt="300x200" src="/public/img/instagram.png" style="width: 40px; height: 40px; filter: none !important;">
           </a>
 
