@@ -448,36 +448,9 @@
  * Mouse trace by tholmas
  * @see https://github.com/tholman/cursor-effects
  */
-const loading = document.getElementById('audio-loading')
-const complete = document.getElementById('audio-complete')
 
 // Start distorted button
 initButton()
-
-// Init the audio
-function initLoader () {
-  const loader = document.querySelector('.c-loader')
-  loader.classList.add('is--started')
-}
-
-// Init the audio
-function initAudio () {
-
-  playSounds();
-  setInterval(playSounds, 9000);
-
-  function playSounds() {
-    console.log('play')
-    loading.currentTime = 0;
-    complete.currentTime = 0;
-    setTimeout(() => loading.play(), 1)
-    setTimeout(() => complete.play(), 7300)
-    setTimeout(() => {
-      complete.pause()
-      loading.pause()
-    }, 9000)
-  }
-}
 
 // Animate button
 function initButton() {

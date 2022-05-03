@@ -267,21 +267,24 @@
 
     </section>
 
+
+
+    @push('scripts')
+        <script>
+            var sound = document.createElement('audio')
+                sound.id = 'audio'
+                sound.controls = 'controls'
+                sound.src = '/mp3/keyboardDigital.mp3'
+                sound.type = 'audio/mp3'
+                document.body.appendChild(sound)
+
+                function playAudio() {
+                document.getElementById('audio').play();
+                }
+
+                setTimeout("playAudio()", 3000);
+        </script>
+    @endpush
+
+
   @endsection
-
-@push('scripts')
-<script>
-       var sound = document.createElement('audio')
-        sound.id = 'audio'
-        sound.controls = 'controls'
-        sound.src = '/mp3/keyboardDigital.mp3'
-        sound.type = 'audio/mp3'
-        document.body.appendChild(sound)
-
-        function playAudio() {
-        document.getElementById('audio').play();
-        }
-
-        setTimeout("playAudio()", 3000);
-</script>
-@endpush
