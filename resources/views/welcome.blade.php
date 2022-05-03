@@ -6,7 +6,7 @@
 @section('content')
 <style>
     .hero-unit{
-        background-image: url(https://64.media.tumblr.com/7ba4353…/97c69debd9c49469-bb/s540x810/a901657….gifv);
+        background-image: url(https://thumbs.gfycat.com/PiercingOldfashionedAmethystgemclam-size_restricted.gif);
     }
 </style>
 
