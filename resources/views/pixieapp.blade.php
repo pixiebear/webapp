@@ -316,8 +316,6 @@
 <div style="background-image: url('/img/BackYellow.png');
 height: 1730px;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="4"></div>
 
-<div style="background-image: url('/img/BackOrange.png');
-height: 1730px;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="4"></div>
 
     <div class="container" style="z-index: 20;position: relative;">
 
