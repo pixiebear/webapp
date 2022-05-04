@@ -314,14 +314,14 @@
 
 
 <div style="background-image: url('/img/BGBlue.png');
- background-repeat: repeat;
-background-position: center top;
-width: 100%;z-index: 0;" class="rellax" data-rellax-speed="-1">
+ background-repeat: repeat-y;
+background-position: center;
+width: 100%;z-index: 0;" class="rellax" data-rellax-speed="4">
 
 <div style="background-image: url('/img/BGYellow.png');
- background-repeat: repeat;
-background-position: center top;
-width: 100%;z-index: 0;" class="rellax" data-rellax-speed="6">
+ background-repeat: repeat-y;
+background-position: center;
+width: 100%;z-index: 0;" class="rellax" data-rellax-speed="7">
 
 
     <div class="container" style="z-index: 20;position: relative;">
