@@ -357,10 +357,11 @@
     @include('header')
 
     <div style="background-image: url('/img/BGBlue.png');
-    height: 100%;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="-3"></div>
+    height: 100%;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="2"></div>
 
-    <div style="background-image: url('/img/BGBlue.png');
-height: 100%;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="3"></div>
+    <div style="background-image: url('/img/BGGreen.png');
+        background-repeat-y: repeat;
+height: 100%;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="7">
 
     <div class="container" style="z-index: 20;position: relative;">
 
@@ -482,6 +483,7 @@ height: 100%;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rel
 
     </div> <!-- /container -->
 
+  </div>
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
