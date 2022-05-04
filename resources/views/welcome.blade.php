@@ -41,8 +41,8 @@
     </div>
 
     <section id="story" style="padding-top: 80px;">
-          <h1 class="text-center rellax" data-rellax-speed="7">Story</h1>
-          <p class="mb-5 rellax" data-rellax-speed="-3">
+          <h1 class="text-center">Story</h1>
+          <p class="mb-5">
             Pixie Bears collection of 5555 Solana NFTs represents a group  of bears who had just woken up from a long hibernation and are ready to gather all the resources and never again worry about getting fat for winter. All the bear necessities you might imagine. Honey, berries, and of course salmon. Fat for life!
           </p>
     </section>
