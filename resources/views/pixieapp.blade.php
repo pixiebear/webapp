@@ -386,7 +386,7 @@
 
 
 
-        <section id="faq" class="page">
+        <section id="faq" class="page pt-5">
             <div class="page-header">
                 <h1 class="text-center">Frequently Asked Questions</h1>
             </div>

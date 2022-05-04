@@ -16,7 +16,7 @@ Route::view('/mint', 'mint')->name('mint');
 Route::view('/rarity', 'rarity')->name('rarity');
 Route::view('/shop', 'shop')->name('shop');
 Route::view('/', 'welcome')->name('welcome');
-Route::view('/staking', 'stake')->name('stake');
+Route::view('/staking', 'stake')->name('staking');
 Route::view('/token', 'token')->name('token');
 
 
