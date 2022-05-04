@@ -30,13 +30,13 @@
 
           <div class="nav-collapse collapse">
             <ul id="navbar" class="nav">
-              <li class="active"><a href="/#home">Home</a></li>
+              <li class="navbar-item active"><a href="/#home">Home</a></li>
 
-              <li><a href="/#roadmap" title="Roadmap" class="navbar-item">Portfolio</a></li>
-              <li><a href="/rarity">Rarity</a></li>
-              <li><a href="/token">Token</a></li>
-              <li><a href="/staking">Staking</a></li>
-              <li><a href="/mint">Mint</a></li>
+              <li><a href="/#roadmap" title="Roadmap" class="navbar-item">Roadmap</a></li>
+              <li><a href="/rarity" class="navbar-item">Rarity</a></li>
+              <li><a href="/token" class="navbar-item">Token</a></li>
+              <li><a href="/staking" class="navbar-item">Staking</a></li>
+              <li><a href="/mint" class="navbar-item">Mint</a></li>
               <li><a href="#faq" title="Faq" class="navbar-item">FAQ</a></li>
             </ul>
           </div><!--/.nav-collapse -->
