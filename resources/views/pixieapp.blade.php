@@ -312,20 +312,26 @@
 
 
 
-    <div style="background-image: url('/img/BGYellow.png');
+    <div
+    style="background-image: url('/img/BGYellow.png');
     background-repeat: repeat-y;
    background-position: center;
-   background-size: cover
-   width: 100%;z-index: 0;" class="rellax" data-rellax-speed="7">
+   background-size: cover;
+   width: 100%;
+   z-index: 0;"
+   class="rellax" data-rellax-speed="7">
 
 
 
 
-<div style="background-image: url('/img/BGBlue.png');
+<div
+style="background-image: url('/img/BGBlue.png');
  background-repeat: no-repeat;
 background-position: center;
-background-size: cover
-width: 100%;z-index: 0;" class="rellax" data-rellax-speed="4">
+background-size: cover;
+width: 100%;
+z-index: 0;"
+class="rellax" data-rellax-speed="4">
 
 
 
