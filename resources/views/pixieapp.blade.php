@@ -518,8 +518,7 @@
 
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
-
-
+    <script src="/js/vanillajs-scrollspy.min.js"></script>
     <script src="/js/rellax.min.js"></script>
     <script>
         // Accepts any class name
@@ -539,7 +538,7 @@
         });
 
     </script>
-       <script src="/js/vanillajs-scrollspy.min.js"></script>
+
 </body>
 
 </html>
