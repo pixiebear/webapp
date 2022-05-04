@@ -42,9 +42,12 @@
 
     <section id="story" style="padding-top: 80px;">
           <h1 class="text-center page-header">Story</h1>
-          <p class="mb-5 thumbnail">
-            Pixie Bears collection of 5555 Solana NFTs represents a group  of bears who had just woken up from a long hibernation and are ready to gather all the resources and never again worry about getting fat for winter. All the bear necessities you might imagine. Honey, berries, and of course salmon. Fat for life!
-          </p>
+          <div class="mb-5 thumbnail">
+            <p style="padding: 10px;margin-bottom: 0;">
+                Pixie Bears collection of 5555 Solana NFTs represents a group  of bears who had just woken up from a long hibernation and are ready to gather all the resources and never again worry about getting fat for winter. All the bear necessities you might imagine. Honey, berries, and of course salmon. Fat for life!
+              </p>
+          </div>
+
     </section>
 
 
