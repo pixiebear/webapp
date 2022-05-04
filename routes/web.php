@@ -12,12 +12,12 @@ use Illuminate\Support\Facades\Route;
 | contains the "web" middleware group. Now create something great!
 |
 */
-Route::view('/mint', 'mint');
-Route::view('/rarity', 'rarity');
-Route::view('/shop', 'shop');
-Route::view('/', 'welcome');
-Route::view('/staking', 'stake');
-Route::view('/token', 'token');
+Route::view('/mint', 'mint')->name('mint');
+Route::view('/rarity', 'rarity')->name('rarity');
+Route::view('/shop', 'shop')->name('shop');
+Route::view('/', 'welcome')->name('welcome');
+Route::view('/staking', 'stake')->name('stake');
+Route::view('/token', 'token')->name('token');
 
 
 
