@@ -418,7 +418,7 @@
 
 
         <footer class="mt-5">
-          <p>© PIXI BEAERS 2022</p>
+          <p>© PIXIE BEARS 2022</p>
         </footer>
 
 
@@ -444,6 +444,11 @@
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
+    <script src="/js/rellax.min.js"></script>
+    <script>
+      // Accepts any class name
+      var rellax = new Rellax('.rellax');
+    </script>
 
     <script>
       AOS.init();
@@ -456,7 +461,6 @@
   }, 2300);
 
 });
-
 
     </script>
   </body>
