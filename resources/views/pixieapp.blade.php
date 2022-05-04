@@ -310,11 +310,14 @@
 
     @include('header')
 
-    <div style="background-image: url('/img/BGBlue.png');
-     background-repeat: no-repeat;
-    background-position: 0 0;
+    <div style="background-image: url(/img/BGBlue.png);
+    background-repeat: no-repeat;
     background-size: cover;
-    height: 4000px;position: absolute;width: 1157px;z-index: 0;" class="rellax" data-rellax-speed="1"></div>
+    height: 100%;
+    position: fixed;
+    width: 100%;
+    z-index: 0;
+    transform: translate3d(0px, -66px, 0px);" class="rellax" data-rellax-speed="7"></div>
 
 <div style="background-image: url('/img/BGYellow.png');
  background-repeat: no-repeat;
