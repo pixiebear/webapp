@@ -357,11 +357,24 @@
     @include('header')
 
     <div style="background-image: url('/img/BGBlue.png');
-    height: 4000px;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="2"></div>
+        height: 4000px;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+    transform: translate3d(0px, 0px, 0px);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;" class="rellax" data-rellax-speed="2"></div>
 
     <div style="background-image: url('/img/BGYellow.png');
-        background-repeat-y: repeat;
-height: 4000px;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="7">
+    height: 4000px;
+    position: absolute;
+    width: 100%;
+    z-index: 0;
+    transform: translate3d(0px, 0px, 0px);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;" class="rellax" data-rellax-speed="7">
  </div>
 
 
