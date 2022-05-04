@@ -330,7 +330,8 @@ width: 100%;z-index: 0;" class="rellax" data-rellax-speed="7">
         @yield('content')
 
 
-
+    </div>
+</div> <!-- background parralax botuh-->
 
         <section id="faq">
              <div class="page-header">
@@ -436,8 +437,7 @@ width: 100%;z-index: 0;" class="rellax" data-rellax-speed="7">
 
     </div> <!-- /container -->
 
-</div>
-</div>
+
     <!-- Le javascript
     ================================================== -->
     <!-- Placed at the end of the document so the pages load faster -->
