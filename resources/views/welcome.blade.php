@@ -10,7 +10,6 @@
     }
 </style>
 
-<div class="container" style="z-index: 20;position: relative;">
 
   <div id="overlay">
             <div class="c-loader is--started">
@@ -49,14 +48,6 @@
     </section>
 
 
-</div>
-
-
-<div style="background-image: url('/img/BackOrange.png');
-height: 1730px;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="6"></div>
-
-
-<div class="container" style="z-index: 20;position: relative;">
     <section id="roadmap" style="padding-top: 70px;">
 
         <div class="page-header">
@@ -204,78 +195,75 @@ height: 1730px;position: absolute;width: 100%;z-index: 0;" class="rellax" data-r
             </div>
           </div>
 
-    </section>
-</div>
+  </section>
 
-<div style="background-image: url('/img/BackGreen.png');
-height: 1730px;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="-5"></div>
-
-
-<div class="container" style="z-index: 20;position: relative;">
     <section id="thumbnails">
-        <div class="row">
+<div class="row">
 
-            <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
-                <div class="thumbnail">
-                    <img  src="/img/Snap.webp" style="width: 300px; height: 300px;">
-                <div class="caption">
-                    <h3>Whoopty J</h3>
-                    <p>Papa bear, cryptoforest is his turf.  All BTC and SOL trades go through him!</p>
-                    <p class="text-center"><a href="https://twitter.com/whooptyJJ" class="btn btn-primary">Twitter</a></p>
-                </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
-
-                <div class="thumbnail">
-                    <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
-                        <h3>Noah</h3>
-                        <p>Young hustla, grinding his way to the top. True OG.</p>
-                        <p class="text-center"><a href="https://twitter.com/dika_marko" class="btn btn-primary">Twitter</a></p>
-                    </div>
-                </div>
-
-            </div>
-
-
-            <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
-                <div class="thumbnail">
-                    <img  src="/img/Chew.webp" style="width: 300px; height: 300px;">
-                    <div class="caption">
-                    <h3>Chewy</h3>
-                    <p>Chewy is chewing code and design. He's half Neo half Cicada.</p>
-                    <p class="text-center"><a href="https://twitter.com/immrdrop" class="btn btn-primary">Twitter</a></p>
-                </div>
-                </div>
-
-            </div>
-
-            <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
-                <div class="thumbnail">
-
-                    <img  src="/img/hurl.webp" style="width: 300px; height: 300px;">
-
-                    <div class="caption">
-                        <h3>Hurl</h3>
-                        <p>Our gurl Hurl is drawing this amazing art. She's a gorgeous diamond in the rough.</p>
-
-                    </div>
-                </div>
-            </div>
-
-            <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
-                    <div class="thumbnail">
-                    <img  src="/img/Trif.webp" style="width: 300px; height: 300px;">
-                    <div class="caption">
-                    <h3>Trif</h3>
-                    <p>You read it here, Trif wrote it. Quite famous yet too humble to break his anonymity.</p>
-                    </div>
-                </div>
-            </div>
-
+    <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
+        <div class="thumbnail">
+            <img  src="/img/Snap.webp" style="width: 300px; height: 300px;">
+        <div class="caption">
+            <h3>Whoopty J</h3>
+            <p>Papa bear, cryptoforest is his turf.  All BTC and SOL trades go through him!</p>
+            <p class="text-center"><a href="https://twitter.com/whooptyJJ" class="btn btn-primary">Twitter</a></p>
         </div>
-    </section>
+        </div>
+    </div>
+
+    <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
+
+        <div class="thumbnail">
+            <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
+                <h3>Noah</h3>
+                <p>Young hustla, grinding his way to the top. True OG.</p>
+                <p class="text-center"><a href="https://twitter.com/dika_marko" class="btn btn-primary">Twitter</a></p>
+              </div>
+        </div>
+
+      </div>
+
+
+      <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
+        <div class="thumbnail">
+            <img  src="/img/Chew.webp" style="width: 300px; height: 300px;">
+            <div class="caption">
+             <h3>Chewy</h3>
+             <p>Chewy is chewing code and design. He's half Neo half Cicada.</p>
+             <p class="text-center"><a href="https://twitter.com/immrdrop" class="btn btn-primary">Twitter</a></p>
+           </div>
+        </div>
+
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
+        <div class="thumbnail">
+
+            <img  src="/img/hurl.webp" style="width: 300px; height: 300px;">
+
+            <div class="caption">
+                <h3>Hurl</h3>
+                <p>Our gurl Hurl is drawing this amazing art. She's a gorgeous diamond in the rough.</p>
+
+              </div>
+        </div>
+      </div>
+
+      <div class="col-12 col-md-6 col-lg-4" data-aos="zoom-in">
+            <div class="thumbnail">
+            <img  src="/img/Trif.webp" style="width: 300px; height: 300px;">
+            <div class="caption">
+            <h3>Trif</h3>
+            <p>You read it here, Trif wrote it. Quite famous yet too humble to break his anonymity.</p>
+            </div>
+        </div>
+    </div>
+
 </div>
 
-@endsection
+
+
+    </section>
+
+
+  @endsection
