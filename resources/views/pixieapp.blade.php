@@ -386,7 +386,7 @@
 
 
 
-        <section id="faq">
+        <section id="faq" class="page">
             <div class="page-header">
                 <h1 class="text-center">Frequently Asked Questions</h1>
             </div>
@@ -519,11 +519,14 @@
 
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
 
+    <script src="/js/vanillajs-scrollspy.min.js"></script>
     <script src="/js/rellax.min.js"></script>
     <script>
         // Accepts any class name
         var rellax = new Rellax('.rellax');
 
+        var menu = document.querySelector('.navbar');
+        scrollSpy(menu);
     </script>
 
     <script>

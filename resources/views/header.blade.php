@@ -29,14 +29,15 @@
           </button>
 
           <div class="nav-collapse collapse">
-            <ul class="nav">
+            <ul id="navbar" class="nav">
               <li class="active"><a href="/#home">Home</a></li>
-              <li><a href="/#roadmap">Roadmap</a></li>
+
+              <li><a href="/#roadmap" title="Roadmap" class="navbar-item">Portfolio</a></li>
               <li><a href="/rarity">Rarity</a></li>
               <li><a href="/token">Token</a></li>
               <li><a href="/staking">Staking</a></li>
               <li><a href="/mint">Mint</a></li>
-              <li><a href="/#faq">FAQ</a></li>
+              <li><a href="#faq" title="Faq" class="navbar-item">FAQ</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>

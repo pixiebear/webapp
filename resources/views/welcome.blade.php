@@ -51,7 +51,7 @@
     </section>
 
 
-    <section id="roadmap" style="padding-top: 70px;">
+    <section id="roadmap" class="page" style="padding-top: 70px;">
 
         <div class="page-header">
           <h1 class="text-center">ROAD MAP</h1>
