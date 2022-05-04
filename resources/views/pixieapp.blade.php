@@ -310,10 +310,10 @@
 
     @include('header')
 
-    <div style="background-image: url('/img/pixiBackBlue.webp');
+    <div style="background-image: url('/img/pixiBackBlu2.webp');
     height: 100%;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="-3"></div>
 
-<div style="background-image: url('/img/pixiBackBlue.webp');
+<div style="background-image: url('/img/pixiBackYellow.webp');
 height: 100%;position: absolute;width: 100%;z-index: 0;" class="rellax" data-rellax-speed="3"></div>
 
     <div class="container" style="z-index: 20;position: relative;">
