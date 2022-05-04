@@ -524,7 +524,7 @@
         // Accepts any class name
         var rellax = new Rellax('.rellax');
 
-        var menu = document.querySelector('.navbar');
+        var menu = document.querySelector('.nav');
         scrollSpy(menu);
     </script>
 
