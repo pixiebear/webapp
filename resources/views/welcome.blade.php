@@ -207,7 +207,8 @@
         <div class="thumbnail">
             <img  src="/img/Snap.webp" style="width: 300px; height: 300px;">
         <div class="caption">
-            <h3>Whoopty J</h3>
+            <h3 class="text-center">Whoopty J</h3>
+            <h4 class="text-center">Leader</h4>
             <p>Papa bear, cryptoforest is his turf.  All BTC and SOL trades go through him!</p>
             <p class="text-center"><a href="https://twitter.com/whooptyJJ" class="btn btn-primary">Twitter</a></p>
         </div>
@@ -218,7 +219,8 @@
 
         <div class="thumbnail">
             <img  src="/img/Noah.webp" style="width: 300px; height: 300px;"><div class="caption">
-                <h3>Noah</h3>
+                <h3 class="text-center">Jeff</h3>
+                <h4 class="text-center">Head of marketing</h4>
                 <p>Young hustla, grinding his way to the top. True OG.</p>
                 <p class="text-center"><a href="https://twitter.com/dika_marko" class="btn btn-primary">Twitter</a></p>
               </div>
@@ -231,7 +233,8 @@
         <div class="thumbnail">
             <img  src="/img/Chew.webp" style="width: 300px; height: 300px;">
             <div class="caption">
-             <h3>Chewy</h3>
+             <h3 class="text-center">Chewy</h3>
+             <h4 class="text-center">Developer</h4>
              <p>Chewy is chewing code and design. He's half Neo half Cicada.</p>
              <p class="text-center"><a href="https://twitter.com/immrdrop" class="btn btn-primary">Twitter</a></p>
            </div>
@@ -245,7 +248,8 @@
             <img  src="/img/hurl.webp" style="width: 300px; height: 300px;">
 
             <div class="caption">
-                <h3>Hurl</h3>
+                <h3 class="text-center">Hurl</h3>
+                <h4 class="text-center">Artist</h4>
                 <p>Our gurl Hurl is drawing this amazing art. She's a gorgeous diamond in the rough.</p>
 
               </div>
@@ -256,7 +260,8 @@
             <div class="thumbnail">
             <img  src="/img/Trif.webp" style="width: 300px; height: 300px;">
             <div class="caption">
-            <h3>Trif</h3>
+            <h3 class="text-center">Trif</h3>
+            <h4 class="text-center">Writer</h4>
             <p>You read it here, Trif wrote it. Quite famous yet too humble to break his anonymity.</p>
             </div>
         </div>

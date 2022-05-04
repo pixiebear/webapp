@@ -24,13 +24,13 @@
 
           <div class="nav-collapse collapse">
             <ul id="navbar" class="nav">
-              <li class="navbar-item active"><a href="/#home">Home</a></li>
-              <li><a href="/#roadmap" title="Roadmap" class="navbar-item">Roadmap</a></li>
-              <li><a href="/rarity" class="navbar-item">Rarity</a></li>
-              <li><a href="/token" class="navbar-item">Token</a></li>
-              <li><a href="/staking" class="navbar-item">Staking</a></li>
-              <li><a href="/mint" class="navbar-item">Mint</a></li>
-              <li><a href="#faq" title="Faq" class="navbar-item">FAQ</a></li>
+              <li class="navbar-item @if(!Route::is('/')) active @endif"><a href="/#home">Home</a></li>
+              <li class="navbar-item"><a href="/#roadmap" title="Roadmap">Roadmap</a></li>
+              <li class="navbar-item @if(!Route::is('rarity')) active @endif"><a href="/rarity">Rarity</a></li>
+              <li class="navbar-item @if(!Route::is('token')) active @endif"><a href="/token">Token</a></li>
+              <li class="navbar-item @if(!Route::is('staking')) active @endif"><a href="/staking" >Staking</a></li>
+              <li class="navbar-item @if(!Route::is('mint')) active @endif"><a href="/mint" >Mint</a></li>
+              <li class="navbar-item"><a href="#faq" title="Faq" >FAQ</a></li>
             </ul>
           </div><!--/.nav-collapse -->
         </div>
