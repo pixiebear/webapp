@@ -6,10 +6,8 @@ set -e
 
 echo "Deploying application ..."
 
-npm ci
+git pull origin main
 
-npm test
-
-npm build
+rm -r /home/pixijccn/public_html && cp -a /home/pixijccn/app/build/. /home/pixijccn/public_html
 
 echo "Application deployed!"
