@@ -58,7 +58,7 @@ return (
                   03. Phase
                 </Title>
                 <Text variant="p" >
-                  All the Phase one and two work makes Phase 3. That much more beneficial for all. Beneficial how, you may ask. If all the Phase 2 giveaways just did not get you stuffed we suggest you try a serving of WL Mint, Live Mint, Sold Out, Secondary Market Listing, all in Phase 3.
+                  All the Phase one and two work makes Phase 3. That much more beneficial for all. Beneficial how, you may ask. If all the Phase 2 giveaways just did not get you stuffed, we suggest you try a serving of WL Mint, Live Mint, Sold Out, Secondary Market Listing, all in Phase 3.
                 </Text>
               </VerticalTimelineElement>
               <VerticalTimelineElement
@@ -70,7 +70,7 @@ return (
                 <Title variant="cardBig" className="mb-4">
                   04. Phase
                 </Title>
-                <Text variant="p" >Phase four is where OGs are will enjoy the $20000 giveaway, yep, 20k, 5 digits. Everybody can stake their NFTs and earn their $HONEY tokens. Pixieverse development is on the way, and with it's Roadmap 2.0. 
+                <Text variant="p" >Phase four is where OGs are will enjoy the $20000 giveaway, yep, 20k, five digits. Everybody can stake their NFTs and earn their $HONEY tokens. Pixieverse development is on the way, and with it's Roadmap 2.0. 
 To top it all off, Sick merch for the fashion-savvy or just Members keen on showing off. I'm honestly of the latter kind.</Text>
               </VerticalTimelineElement>
              

@@ -15,7 +15,7 @@ const Hero = () => {
               <Col lg="10" xl="7">
                 <Availability />
                 <div className="text-center my-5">
-                  <Title>Do you want to do collab? Let's talk.</Title>
+                  <Title>Wanna do a collab?<br></br> Let's talk.</Title>
                 </div>
                 <div className="text-center">
                 <a href="https://twitter.com/messages/compose?recipient_id=1520813985351806976&text=Hello%20I%20would%20like%20to%20do%20collab%20with%20you%22"

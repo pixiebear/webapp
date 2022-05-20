@@ -5,7 +5,7 @@ import { HashLink } from 'react-router-hash-link';
 
 import imgS1 from "../../assets/image/Snap.webp";
 import imgS2 from "../../assets/image/Noah.webp";
-import imgS3 from "../../assets/image/Chew.webp";
+import imgS3 from "../../assets/image/Chewy.webp";
 import imgS4 from "../../assets/image/Hurl.webp";
 import imgS5 from "../../assets/image/Trif.webp";
 
