@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.1f24eb00.chunk.css",
-    "main.js": "/static/js/main.fb07aa29.chunk.js",
-    "main.js.map": "/static/js/main.fb07aa29.chunk.js.map",
+    "main.js": "/static/js/main.fc139e74.chunk.js",
+    "main.js.map": "/static/js/main.fc139e74.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4e2a4189.js",
     "runtime-main.js.map": "/static/js/runtime-main.4e2a4189.js.map",
     "static/js/2.0201ed21.chunk.js": "/static/js/2.0201ed21.chunk.js",
@@ -21,16 +21,16 @@
     "static/media/4.21ad1064.webp": "/static/media/4.21ad1064.webp",
     "static/media/4.f8f0af30.webp": "/static/media/4.f8f0af30.webp",
     "static/media/5.34921254.webp": "/static/media/5.34921254.webp",
-    "static/media/Chew.4a744aec.webp": "/static/media/Chew.4a744aec.webp",
+    "static/media/Chewy.963acb72.webp": "/static/media/Chewy.963acb72.webp",
     "static/media/Hurl.24f64a58.webp": "/static/media/Hurl.24f64a58.webp",
     "static/media/Noah.a5531334.webp": "/static/media/Noah.a5531334.webp",
-    "static/media/Snap.05da90af.webp": "/static/media/Snap.05da90af.webp",
-    "static/media/Trif.3fa2d8e9.webp": "/static/media/Trif.3fa2d8e9.webp"
+    "static/media/Snap.a763bf06.webp": "/static/media/Snap.a763bf06.webp",
+    "static/media/Trif.020d00c3.webp": "/static/media/Trif.020d00c3.webp"
   },
   "entrypoints": [
     "static/js/runtime-main.4e2a4189.js",
     "static/js/2.0201ed21.chunk.js",
     "static/css/main.1f24eb00.chunk.css",
-    "static/js/main.fb07aa29.chunk.js"
+    "static/js/main.fc139e74.chunk.js"
   ]
 }
