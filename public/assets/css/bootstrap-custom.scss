@@ -1,0 +1,178 @@
+// Override default variables before the import
+
+$primary: #495fef;
+$secondary: #f5f5f7;
+$success: #56b381;
+$bg: #ffffff;
+$heading: #161c2d;
+$navbar-light-color: #161c2d;
+$text: #161c2d;
+$navbar-light-brand-color: #161c2d;
+$white: $bg;
+$navbar-light-active-color: #161c2d36 !default;
+$black: $heading;
+$body-color: $text;
+$headings-color: $text;
+$body-bg: $bg;
+$font-family-base: "Inter",
+sans-serif;
+$headings-font-family: $font-family-base;
+$headings-font-weight: 700;
+$link-decoration: none !important;
+
+//Import font
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@300;400;700&display=swap");
+
+// Import Bootstrap and its default variables
+@import "~bootstrap/scss/bootstrap.scss";
+
+.has-offcanvas {
+  width: 100%;
+  height: 100%;
+  // overflow: hidden !important;
+}
+
+.dropdown-menu {
+  box-shadow: 0 52px 54px rgb(65 62 101 / 30%);
+  padding: 15px 0px;
+  transition: opacity 0.4s, top 0.4s;
+  border: 1px solid #e5e5e5;
+  border-radius: 0 0 10px 10px;
+}
+
+.dropdown-menu[data-bs-popper] {
+  margin-top: 0;
+}
+
+.navbar {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 24px;
+  transition: 0.4s;
+  box-shadow: 0 12px 34px 15px rgba(65, 62, 101, 0.1);
+}
+
+// Fix for flush list group
+.list-group-flush:first-child,
+.list-group-item:first-child {
+  border-top: 0;
+}
+
+// Fix for Gallery Lightbox (react-image package)
+.react-images__blanket,
+.react-images__positioner {
+  z-index: 999999 !important;
+}
+
+// Fix for Modal
+.modal,
+.modal-backdrop {
+  z-index: 99999 !important;
+}
+
+button.nav-link {
+  border: none;
+  background-color: transparent;
+  font-size: 0.8125rem;
+  line-height: 1.63;
+  -webkit-letter-spacing: 1.63px;
+  -moz-letter-spacing: 1.63px;
+  -ms-letter-spacing: 1.63px;
+  letter-spacing: 1.63px;
+}
+
+button.active {
+  color: var(--blue);
+}
+
+
+
+.layoutItem {
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+  min-height: 135px;
+  background: #fff;
+  margin-bottom: 30px;
+  box-shadow: 0 20px 50px rgb(68 77 136 / 20%);
+  overflow: hidden;
+  cursor: pointer;
+  will-change: transform
+}
+
+.modalContainer {
+  position: fixed;
+  overflow: hidden;
+  top: 0;
+  left:0;
+  z-index: 999;
+  display: flex;
+  width: 100%;
+  background-color: #161c2d38;
+  height: 100%;
+  padding: 2rem;
+  place-content: center;
+  place-items: center;
+  pointer-events: none;
+}
+
+.badgeImg{
+  height: auto;
+  width: 100%;
+}
+
+.faqRow{
+  margin-left: -1.5rem;
+  margin-right: -1.5rem;
+}
+
+
+.aniModal {
+  position: relative;
+  overflow: hidden;
+  max-width: 500px;
+  border-radius: 30px;
+  padding: 2rem;
+  height: 50%;
+  flex: 1 1 auto;
+  background: #fff;
+  -webkit-box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1), 0 10px min(calc(1rem * (15 / (var(--system-dimension-fontSizeDynamic) + .167 * var(--system-dimension-fontSizeDifference)))), 15px) 0 rgba(0, 0, 0, .06);
+  box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .1), 0 10px min(calc(1rem * (15 / (var(--system-dimension-fontSizeDynamic) + .167 * var(--system-dimension-fontSizeDifference)))), 15px) 0 rgba(0, 0, 0, .06);
+  pointer-events: all;
+  will-change: transform;
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+}
+
+.modalClose {
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+  width: 1.5rem;
+  height: 1.5rem;
+  border: none;
+  background: rgba(187, 0, 255, .1);
+  border-radius: 50%;
+  color: #b0f;
+  cursor: pointer;
+  outline: none;
+  -webkit-transition: background .2s;
+  transition: background .2s;
+}
+
+.modalBackdrop {
+  position: fixed;
+  z-index: 0;
+  top: 0;
+  left: 0;
+  overflow: hidden;
+  width: 100%;
+  height: 100%;
+  background: -webkit-linear-gradient(315deg, rgb(255, 255, 255), rgb(185, 182, 187));
+  background: linear-gradient(135deg, rgb(255, 255, 255), rgb(191, 189, 192));
+  cursor: pointer;
+}
