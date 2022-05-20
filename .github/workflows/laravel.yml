@@ -17,4 +17,4 @@ jobs:
           host: "${{ secrets.PIXI_IP }}"
           password: "${{ secrets.PIXIE_PASS }}"
           port: 21098
-          script: 'cd /home/pixijccn/www && ./server_deploy.sh'
+          script: 'cd /home/pixijccn/app && ./server_deploy.sh'
