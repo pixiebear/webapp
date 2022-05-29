@@ -21,7 +21,7 @@ export const QuestionsList = [
         id: "4",
         img: "8bitWL",
         label: "How can I get Whitelist for Pixie Bears?",
-        answer: "If you are in the first 500 members on our Discord channel, you will get whitelisted automatically. Otherwise, stay active, help the community, submit art, make memes and be creative."
+        answer: "If you are in the first 200 members on our Discord channel, you will get whitelisted automatically. Otherwise, stay active, help the community, submit art, make memes and be creative."
     },
     {
         id: "5",

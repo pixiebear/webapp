@@ -18,7 +18,7 @@ return (
     <Section className="pt-4 pb-0">
       <Container>
                 <Title variant="secSm" className="my-5 pb-lg-4">
-                    Roadmap
+                    Roadmap.
                 </Title>
             <VerticalTimeline>
               <VerticalTimelineElement
@@ -70,8 +70,9 @@ return (
                 <Title variant="cardBig" className="mb-4">
                   04. Phase
                 </Title>
-                <Text variant="p" >Phase four is where OGs are will enjoy the $20000 giveaway, yep, 20k, five digits. Everybody can stake their NFTs and earn their $HONEY tokens. Pixieverse development is on the way, and with it's Roadmap 2.0. 
-To top it all off, Sick merch for the fashion-savvy or just Members keen on showing off. I'm honestly of the latter kind.</Text>
+                <Text variant="p" >
+                  After successful mint and incorporation. Phase four is where membears will enjoy the giveaway. Community pools for donations will take a place on our discord and twitter. Development of $HONEY token and Roadmap 2.0. To top it all off, Sick merch for the fashion-savvy or just Members keen on showing off. I'm honestly of the latter kind.
+                </Text>
               </VerticalTimelineElement>
              
               <VerticalTimelineElement

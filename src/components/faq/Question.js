@@ -22,6 +22,7 @@ export default function FaqQuestions() {
   
     return (
       <div className='container' id="questions">
+        <Title variant="secSm" className="my-4">Collection FAQ</Title>
         <div className='row p-0 faqRow'>
            {QuestionsList.map((item) => (
             <div  className=' col-12 col-lg-4 col-md-6 p-4'>
