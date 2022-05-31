@@ -27,9 +27,9 @@ return (
 
 <>
 
-<Section hero className="position-relative">
-        <Container>
-          <Row className="align-items-center">
+          <Section hero className="position-relative ">
+           <Container>
+          <Row className="align-items-center h-100">
             <Col lg="7" md="6" sm="12" className="mb-5 mb-lg-0" style={{zIndex:1}}>
               <Box>
                 <Title variant="hero">

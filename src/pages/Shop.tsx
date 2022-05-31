@@ -9,7 +9,7 @@ function Shop() {
 
 
   const { scrollY } = useViewportScroll();
-  const y1 = useTransform(scrollY, [0, 500], [0, 100]);
+  const y1 = useTransform(scrollY, [0, 10], [0, 16]);
 
   const ImgRight = styled.img`
   max-width: 100%;
@@ -20,9 +20,9 @@ return (
 
   <>
   {/* <!-- Hero Area --> */}
-  <Section hero className="position-relative h-100">
+  <Section hero className="position-relative ">
     <Container>
-      <Row className="align-items-center">
+      <Row className="align-items-center h-100">
         <Col lg="7" md="6" sm="12" className="mb-5 mb-lg-0" style={{zIndex:1}}>
           <Box>
             <Title variant="hero">

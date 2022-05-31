@@ -1,6 +1,7 @@
 import '../assets/css/bootstrap-custom.scss';
 import { Container, Row } from "react-bootstrap";
 import { Title } from "./core";
+
 import NftCalendar from "../assets/icons/NftCalendar";
 
 
@@ -12,7 +13,7 @@ return (
     <footer className='text-center my-5'>
     <Container>
             <div className="text-center">
-            <Title variant="secSm" css={` font-size: 0.8125rem; margin-bottom:1rem; `} className="p-3 mb-4">
+            <Title variant="secSm" css={` font-size: 0.8125rem; margin:0 3rem; `} className="p-3 mb-4">
                 Official Partners
             </Title>
 
