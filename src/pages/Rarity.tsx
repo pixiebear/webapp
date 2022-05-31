@@ -9,7 +9,7 @@ return (
 
   <>
   
-            <Section hero className="position-relative">
+            <Section hero className="position-relative h-100">
             
             <Container>
                   <div className="text-center my-5">

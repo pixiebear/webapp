@@ -20,7 +20,7 @@ return (
 
   <>
   {/* <!-- Hero Area --> */}
-  <Section hero className="position-relative">
+  <Section hero className="position-relative h-100">
     <Container>
       <Row className="align-items-center">
         <Col lg="7" md="6" sm="12" className="mb-5 mb-lg-0" style={{zIndex:1}}>
